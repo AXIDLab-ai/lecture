@@ -37,6 +37,7 @@ root/
 ├── 04_Student_Projects/  # 학생 팀 프로젝트 결과물 (Final)
 └── README.md
 
+---
 ## 🛠️ 사용 도구 (Tools & Tech Stack)
 본 수업에서 사용하는 주요 도구 및 언어입니다.
 
