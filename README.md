@@ -32,9 +32,7 @@
 root/
 ├── 00_Syllabus/          # 강의 계획서 및 일정
 ├── 01_Lecture_Notes/     # 주차별 강의 자료 (PDF/PPT)
-├── 02_Lab_Materials/     # 실습 자료 및 예제 코드
-├── 03_Assignments/       # 과제 제출 가이드라인
-├── 04_Student_Projects/  # 학생 팀 프로젝트 결과물 (Final)
+├── 02_Student_Projects/  # 학생 팀 프로젝트 결과물 (Final)
 └── README.md
 ```
 ---
