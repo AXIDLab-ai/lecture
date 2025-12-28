@@ -39,7 +39,7 @@ root/
 ## 🛠️ 사용 도구 (Tools & Tech Stack)
 본 수업에서 사용하는 주요 도구 및 언어입니다.
 
-Modeling: StarUML / Draw.io (택1)
+Modeling: StarUML / PlantUML / Figma / Draw.io
 
 Collaboration: GitHub, Notion
 
