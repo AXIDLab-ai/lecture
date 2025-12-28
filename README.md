@@ -61,7 +61,7 @@ Branch: 작업을 위한 브랜치를 생성합니다. (규칙: week01-name)
 
 Commit & Push: 과제를 수행 후 커밋하고 본인 원격 저장소로 푸시합니다.
 
-제출 경로: 03_Assignments/Week_XX/[학번_이름]/ 폴더 생성 후 업로드
+제출 경로: 02_Assignments/Week_XX/[학번_이름]/ 폴더 생성 후 업로드
 
 Pull Request (PR): 원본 레포지토리(Main)로 PR을 보냅니다.
 
