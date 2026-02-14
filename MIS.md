@@ -1,4 +1,4 @@
-# 📚 경영정보시스템(MIS)
+# 📚 경영정보시스템(Management Information System)
 
 ![Institution](https://img.shields.io/badge/TUKorea-한국공학대학교-blue)
 ![Department](https://img.shields.io/badge/Department-경영학부-green)
