@@ -1,5 +1,5 @@
 # 📚 강송희 교수 강의 아카이브 
-- (Prof. Songhee Kang's Lecture Repository)
+(Prof. Songhee Kang's Lecture Repository)
 
 ![Institution](https://img.shields.io/badge/TUKorea-한국공학대학교-blue)
 ![Lab](https://img.shields.io/badge/Lab-AXID_Lab-purple)
