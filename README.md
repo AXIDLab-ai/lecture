@@ -23,7 +23,7 @@
 
 ### 🎯 전공 필수 과목
 
-#### 📊 [시스템분석설계 (System Analysis and Design)](./01_SystemAnalysisDesign/)
+#### 📊 [시스템분석설계 (System Analysis and Design)](01_SystemAnalysisDesign/)
 
 ![Course Type](https://img.shields.io/badge/Type-전공필수-red)
 ![Target](https://img.shields.io/badge/Target-3학년-orange)
@@ -32,7 +32,7 @@
 - **주요 내용**: 요구사항 분석, 시스템 설계, 프로젝트 관리
 - **실습 도구**: StarUML, PlantUML, GitHub
 
-#### 🚀 [[EH] 창업아이디어설계를 위한 AX/DX 서비스 기획 (AX/DX Service Design & Prototype)](./02_[EH]AXDXServiceDesign&Prototype/)
+#### 🚀 [[EH] 창업아이디어설계를 위한 AX/DX 서비스 기획 (AX/DX Service Design & Prototype)](02_%5BEH%5DAXDXServiceDesign%26Prototype/)
 
 ![Course Type](https://img.shields.io/badge/Type-전공필수-blue)
 ![Target](https://img.shields.io/badge/Target-3_4학년-yellow)
@@ -43,7 +43,7 @@
 
 ### 🎓 전공 선택 과목
 
-#### 📈 [경영정보시스템 (Management Information Systems)](./03_ManagementInformationSystem/)
+#### 📈 [경영정보시스템 (Management Information Systems)](03_ManagementInformationSystem/)
 
 ![Course Type](https://img.shields.io/badge/Type-전공선택-purple)
 ![Target](https://img.shields.io/badge/Target-4학년-yellow)
@@ -52,7 +52,7 @@
 - **주요 내용**: MIS 핵심 이론과 사례
 - **실습 도구**: 사례개발도구 (자체제작 템플릿)
 
-#### 🏭 [인공지능 경영 (AI & Management)](./04_AI&Management/)
+#### 🏭 [인공지능 경영 (AI & Management)](04_AI&Management/)
 
 ![Course Type](https://img.shields.io/badge/Type-전공선택-purple)
 ![Target](https://img.shields.io/badge/Target-2학년-yellow)
@@ -63,7 +63,7 @@
 
 ### 🎓 교양 필수 과목
 
-#### 🏭 [파이썬프로그래밍 (Python Programming)](./04_PythonProgramming/)
+#### 🏭 [파이썬프로그래밍 (Python Programming)](04_PythonProgramming/)
 
 ![Course Type](https://img.shields.io/badge/Type-교양필수-purple)
 ![Target](https://img.shields.io/badge/Target-1학년-yellow)
@@ -84,14 +84,14 @@ root/
 │   ├── Lecture_Notes/
 │   ├── Student_Projects/
 │   └── Resources/
-├── 02_AX_DX_ServiceDesign&Prototype/    # AX/DX 서비스 기획
+├── 02_[EH]AXDXServiceDesign&Prototype/    # AX/DX 서비스 기획
 │   ├── Syllabus/
 │   ├── Lecture_Notes/
 │   ├── Student_Projects/
 │   └── Design_Resources/
-├── 03_MIS/                     # 경영정보시스템
+├── 03_ManagementInformationSystem/                     # 경영정보시스템
 ├── 04_AI&Management/           # 인공지능 경영
-├── 05_PythonProgramming/       # 파이썬 프로그래밍
+├── 04_PythonProgramming/       # 파이썬 프로그래밍
 ├── 99_Shared_Resources/        # 공통 자료 (템플릿, 가이드라인)
 └── README.md
 ```
