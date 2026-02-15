@@ -1,6 +1,6 @@
 # Week 5: 조건문
 
---[← Week 4](./week04.md) | [목차](lecture/04_PythonProgramming/2.%20lectureMap.md) | [다음: Week 6 →](./week06.md)--
+--[← Week 4](./week04.md) | [목차](lecture/04_PythonProgramming/lectureMap.md) | [다음: Week 6 →](./week06.md)--
 
 ---
 

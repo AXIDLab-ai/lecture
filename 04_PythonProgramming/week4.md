@@ -1,6 +1,6 @@
 # Week 4: 연산자
 
---[← Week 3](./week03.md) | [목차](lecture/04_PythonProgramming/2.%20lectureMap.md) | [다음: Week 5 →](./week05.md)--
+--[← Week 3](./week03.md) | [목차](lecture/04_PythonProgramming/lectureMap.md) | [다음: Week 5 →](./week05.md)--
 
 ---
 

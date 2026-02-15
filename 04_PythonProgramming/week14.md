@@ -1,6 +1,6 @@
 # Week 14: 미니 프로젝트
 
-**[← Week 13](./week13.md) | [목차](lecture/04_PythonProgramming/2.%20lectureMap.md)**
+**[← Week 13](./week13.md) | [목차](lecture/04_PythonProgramming/lectureMap.md)**
 
 ---
 

@@ -1,6 +1,6 @@
 # Week 2: 미리 만드는 쓸 만한 프로그램
 
---[← Week 1](./week01.md) | [목차](lecture/04_PythonProgramming/2.%20lectureMap.md) | [다음: Week 3 →](./week03.md)--
+--[← Week 1](./week01.md) | [목차](lecture/04_PythonProgramming/lectureMap.md) | [다음: Week 3 →](./week03.md)--
 
 ---
 

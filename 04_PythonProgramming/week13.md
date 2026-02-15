@@ -1,6 +1,6 @@
 # Week 13: 데이터베이스 (SQLite)
 
-**[← Week 12](./week12.md) | [목차](lecture/04_PythonProgramming/2.%20lectureMap.md) | [다음: Week 14 →](./week14.md)**
+**[← Week 12](./week12.md) | [목차](lecture/04_PythonProgramming/lectureMap.md) | [다음: Week 14 →](./week14.md)**
 
 ---
 

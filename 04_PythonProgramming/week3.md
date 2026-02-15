@@ -1,6 +1,6 @@
 # Week 3: 변수와 데이터형
 
---[← Week 2](./week02.md) | [목차](lecture/04_PythonProgramming/2.%20lectureMap.md) | [다음: Week 4 →](./week04.md)--
+--[← Week 2](./week02.md) | [목차](lecture/04_PythonProgramming/lectureMap.md) | [다음: Week 4 →](./week04.md)--
 
 ---
 

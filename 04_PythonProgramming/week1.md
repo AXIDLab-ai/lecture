@@ -1,6 +1,6 @@
 # Week 1: 파이썬 들여다보기
 
---[목차](lecture/04_PythonProgramming/2.%20lectureMap.md) | [다음: Week 2 →](./week02.md)--
+--[목차](lecture/04_PythonProgramming/lectureMap.md) | [다음: Week 2 →](./week02.md)--
 
 ---
 

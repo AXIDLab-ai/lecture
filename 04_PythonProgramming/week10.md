@@ -1,6 +1,6 @@
 # Week 10: 윈도 프로그래밍 (tkinter GUI)
 
-**[← Week 9](./week09.md) | [목차](lecture/04_PythonProgramming/2.%20lectureMap.md) | [다음: Week 11 →](./week11.md)**
+**[← Week 9](./week09.md) | [목차](lecture/04_PythonProgramming/lectureMap.md) | [다음: Week 11 →](./week11.md)**
 
 ---
 
