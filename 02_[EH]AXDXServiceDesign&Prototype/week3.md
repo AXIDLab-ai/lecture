@@ -1,6 +1,6 @@
 # Week 3: 서비스 분석 설계 및 요건 정의
 
-[← 이전: Week 2](./week02.md) | [목차](./README.md) | [다음: Week 4 →](./week04.md)
+[← 이전: Week 2](./week2.md) | [목차](./README.md) | [다음: Week 4 →](./week4.md)
 
 ---
 

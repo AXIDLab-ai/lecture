@@ -1,6 +1,6 @@
 # Week 6: 반복문
 
-**[← Week 5](./week05.md) | [목차](lecture/04_PythonProgramming/lectureMap.md) | [다음: Week 7 →](./week07.md)**
+**[← Week 5](./week5.md) | [목차](lecture/04_PythonProgramming/lectureMap.md) | [다음: Week 7 →](./week7.md)**
 
 ---
 
