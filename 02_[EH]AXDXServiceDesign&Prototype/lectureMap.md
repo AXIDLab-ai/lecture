@@ -122,6 +122,10 @@ cd AXDX_ServicePlanning
 - **솔루션**: 24시간 주문, 12시간 내 배송
 - **시장**: TAM $2.1B → SAM $126M → SOM $1.26M
 
+
+## 🎯 최종 텀 프로젝트 가이드
+
+ * [[projectGuide]]와 [[projectSample]] 참조
 ---
 
 ## 📁 문서 구조
@@ -175,8 +179,6 @@ AXDX_ServicePlanning/
   "data": {}
 }
 ```
-```
-
 ---
 
 ## 📞 지원 및 문의
