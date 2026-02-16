@@ -7,8 +7,8 @@
 ![Research](https://img.shields.io/badge/Focus-Data_Driven_Innovation-orange)
 
 **한국공학대학교 AXID Lab 강송희 교수의 강의 아카이브입니다.**
-본 레포지토리는 강의 자료 배포, 수강생 프로젝트 관리, 그리고 산학연 협력 기반의 실무 중심 교육을 위해 운영됩니다.
-
+본 레포지토리는 강의 자료 배포, 수강생 프로젝트 관리, 그리고 산학연 협력 기반의 실무 중심 교육을 위해 운영됩니다. 산업 환경에서 반복 관찰되는 현상을 체계적으로 기록하는 교육을 지향합니다. 
+> *These courses share a common structure: students do not merely complete projects, but run structured field experiments. Each course accumulates comparable case records describing when systems, services, or business models fail to operate as intended. The curriculum emphasizes observation and documentation of failure conditions rather than demonstration of success.*
 ---
 
 ## 🔬 AXID Lab 소개 (About AXID Lab)
@@ -37,6 +37,8 @@
 ![Course Type](https://img.shields.io/badge/Type-전공필수-blue)
 ![Target](https://img.shields.io/badge/Target-3_4학년-yellow)
 
+> 본 과목은 프로토타입 제작을 통해 서비스 채택이 실패하는 조건을 반복 관찰하는 실험형 수업이다.
+> 비즈니스 모델을 설계하기보다 가설이 무효화되는 시장 조건을 검증하고 피봇 유형을 기록한다.
 - **강의 목표**: 디지털 전환 시대의 서비스 기획 및 사용자 경험 설계
 - **주요 내용**: 고객 여정 분석, 서비스 디자인, 프로토타이핑
 - **실습 도구**: Figma, LLM 기반 개발도구, 사용자 조사 방법론
@@ -48,6 +50,7 @@
 ![Course Type](https://img.shields.io/badge/Type-전공선택-purple)
 ![Target](https://img.shields.io/badge/Target-4학년-yellow)
 
+> 학생들은 기업 사례를 분석하는 것이 아니라 동일 형식의 시스템 실패 패턴을 구조화하여 축적한다.
 - **강의 목표**: 6가지 이론적 관점을 기반으로 경영정보시스템 사례 개발
 - **주요 내용**: MIS 핵심 이론과 사례
 - **실습 도구**: 사례개발도구 (자체제작 템플릿)
@@ -57,6 +60,7 @@
 ![Course Type](https://img.shields.io/badge/Type-전공선택-purple)
 ![Target](https://img.shields.io/badge/Target-2학년-yellow)
 
+> 일부 교육 자료는 연구 출판 및 데이터 보호 정책에 따라 제한적으로 제공됩니다.
 - **강의 목표**: 인공지능 경영
 - **주요 내용**: 인공지능 기초 이론과 경영과의 접목사례, 윤리 의식 함양
 - **실습 도구**: 가설 개발 및 시나리오 기반 시뮬레이션 도구 (자체제작)
@@ -90,8 +94,8 @@ root/
 │   ├── Student_Projects/
 │   └── Design_Resources/
 ├── 03_ManagementInformationSystem/                     # 경영정보시스템
-├── 04_AI&Management/           # 인공지능 경영
 ├── 04_PythonProgramming/       # 파이썬 프로그래밍
+├── 05_AI&Management/           # 인공지능 경영
 ├── 99_Shared_Resources/        # 공통 자료 (템플릿, 가이드라인)
 └── README.md
 ```
