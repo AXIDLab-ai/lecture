@@ -1,4 +1,4 @@
-# 시스템 분석 및 설계 (Systems Analysis & Design)
+## 시스템 분석 및 설계 (Systems Analysis & Design)
 
 ## 📋 과목 개요
 
