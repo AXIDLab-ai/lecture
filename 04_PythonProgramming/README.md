@@ -1,5 +1,3 @@
-# 📘 파이썬 프로그래밍 (Python Programming)
-
 ![Institution](https://img.shields.io/badge/TUKorea-한국공학대학교-444444?style=flat&logoColor=white)
 ![Department](https://img.shields.io/badge/Department-IT경영전공-666666?style=flat&logoColor=white)
 ![Course Type](https://img.shields.io/badge/Type-교양필수-777777?style=flat&logoColor=white)
