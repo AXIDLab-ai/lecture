@@ -57,7 +57,7 @@
 - **주요 내용**: MIS 핵심 이론과 사례
 - **실습 도구**: 사례개발도구 (자체제작 템플릿)
 
-#### 🏭 [인공지능 경영 (AI & Management)](04_AI&Management/)
+#### 🏭 [인공지능 경영 (AI & Management)](05_AI&Management/)
 
 ![Course Type](https://img.shields.io/badge/Type-전공선택-darkgray)
 ![Target](https://img.shields.io/badge/Target-2학년-gray)
