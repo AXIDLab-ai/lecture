@@ -1,4 +1,4 @@
---[← Week 4](./week4.md) | [목차](lectureMap.md) | [다음: Week 6 →](./week6.md)--
+--[← Week 4](./week4.md) | [목차](./lectureMap.md) | [다음: Week 6 →](./week6.md)--
 
 [강의 요약] 경영정보시스템(MIS) 5주차: 프로세스·통합 (Process & Integration)
 

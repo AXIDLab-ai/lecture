@@ -1,9 +1,11 @@
+**한국공학대학교 경영학부 경영정보시스템 강의 아카이브입니다.**
+
 ![Institution](https://img.shields.io/badge/TUKorea-한국공학대학교-444444?style=flat&logoColor=white)
 ![Department](https://img.shields.io/badge/Department-경영학부-666666?style=flat&logoColor=white)
 ![Course Type](https://img.shields.io/badge/Type-전공선택-777777?style=flat&logoColor=white)
 ![Target](https://img.shields.io/badge/Target-4학년-555555?style=flat&logoColor=white)
 
-**[강의 로드맵 (Lecture Map) →](lectureMap.md)**
+**[강의 로드맵 (Lecture Map) →](./lectureMap.md)**
 
 - **교과목명**: 경영정보시스템(Management Information Systems, MIS)  
 - **수강대상/권장선수지식**: 전 학년(권장: 기초 경영/조직, 데이터 리터러시, 프로세스 이해)  

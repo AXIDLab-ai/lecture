@@ -1,5 +1,5 @@
 
-**[← Week 11](./week11.md) | [목차](lecture/04_PythonProgramming/lectureMap.md) | [다음: Week 13 →](./week13.md)**
+**[← Week 11](./week11.md) | [목차](./lectureMap.md) | [다음: Week 13 →](./week13.md)**
 
 Week 12: 객체지향 프로그래밍 (OOP)
 

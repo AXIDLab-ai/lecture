@@ -1,5 +1,5 @@
 
-**[← Week 8](./week8.md) | [목차](lecture/04_PythonProgramming/lectureMap.md) | [다음: Week 10 →](./week10.md)**
+**[← Week 8](./week8.md) | [목차](./lectureMap.md) | [다음: Week 10 →](./week10.md)**
 
 Week 9: 함수와 모듈
 

@@ -1,5 +1,5 @@
 
---[← Week 2](./week2.md) | [목차](lecture/04_PythonProgramming/lectureMap.md) | [다음: Week 4 →](./week4.md)--
+--[← Week 2](./week2.md) | [목차](./lectureMap.md) | [다음: Week 4 →](./week4.md)--
 
 Week 3: 변수와 데이터형
 

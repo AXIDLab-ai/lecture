@@ -1,4 +1,4 @@
---[← Week 2](./week2.md) | [목차](lectureMap.md) | [다음: Week 4 →](./week4.md)--
+--[← Week 2](./week2.md) | [목차](./lectureMap.md) | [다음: Week 4 →](./week4.md)--
 
 [강의 요약] 경영정보시스템(MIS) 3주차: 사회기술시스템(STS) 및 변화관리
 

@@ -1,5 +1,5 @@
 
-**[← Week 9](./week9.md) | [목차](lecture/04_PythonProgramming/lectureMap.md) | [다음: Week 11 →](./week11.md)**
+**[← Week 9](./week9.md) | [목차](./lectureMap.md) | [다음: Week 11 →](./week11.md)**
 
 Week 10: 윈도 프로그래밍 (tkinter GUI)
 

@@ -1,5 +1,5 @@
 
-**[← Week 7](./week7.md) | [목차](lecture/04_PythonProgramming/lectureMap.md) | [다음: Week 9 →](./week9.md)**
+**[← Week 7](./week7.md) | [목차](./lectureMap.md) | [다음: Week 9 →](./week9.md)**
 
 Week 8: 딕셔너리와 집합
 

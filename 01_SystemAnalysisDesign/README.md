@@ -1,3 +1,6 @@
+
+**한국공학대학교 IT경영전공 시스템 분석 설계 강의 아카이브입니다.**
+
 ![Institution](https://img.shields.io/badge/TUKorea-한국공학대학교-444444?style=flat&logoColor=white)
 ![Department](https://img.shields.io/badge/Department-IT경영전공-666666?style=flat&logoColor=white)
 ![Course Type](https://img.shields.io/badge/Type-전공필수-777777?style=flat&logoColor=white)

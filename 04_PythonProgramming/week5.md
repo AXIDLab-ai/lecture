@@ -1,5 +1,5 @@
 
---[← Week 4](./week4.md) | [목차](lecture/04_PythonProgramming/lectureMap.md) | [다음: Week 6 →](./week6.md)--
+--[← Week 4](./week4.md) | [목차](./lectureMap.md) | [다음: Week 6 →](./week6.md)--
 
 Week 5: 조건문
 
