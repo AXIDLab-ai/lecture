@@ -335,12 +335,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "01_SystemAnalysisDesign/week3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "week3"
             }
           }
         ],
@@ -517,25 +517,27 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "097bd36d48798860",
+  "active": "5f31c49c020f537b",
   "lastOpenFiles": [
+    "01_SystemAnalysisDesign/lectureMap.md",
+    "01_SystemAnalysisDesign/week1.md",
+    "01_SystemAnalysisDesign/README.md",
+    "01_SystemAnalysisDesign/week11.md",
+    "01_SystemAnalysisDesign/week10.md",
+    "01_SystemAnalysisDesign/week9.md",
+    "01_SystemAnalysisDesign/week8.md",
+    "01_SystemAnalysisDesign/week6.md",
+    "index.md",
     "README.md",
     "04_PythonProgramming/README.md",
     "01_SystemAnalysisDesign/week2.md",
-    "01_SystemAnalysisDesign/week1.md",
-    "01_SystemAnalysisDesign/lectureMap.md",
     "05_AI&Management/README.md",
     "01_SystemAnalysisDesign/week13.md",
     "03_ManagementInformationSystem/week13.md",
-    "01_SystemAnalysisDesign/week11.md",
     "03_ManagementInformationSystem/week11.md",
-    "01_SystemAnalysisDesign/week10.md",
     "03_ManagementInformationSystem/week10.md",
-    "01_SystemAnalysisDesign/week9.md",
-    "01_SystemAnalysisDesign/week8.md",
     "03_ManagementInformationSystem/week9.md",
     "03_ManagementInformationSystem/week7.md",
-    "01_SystemAnalysisDesign/week6.md",
     "03_ManagementInformationSystem/week6.md",
     "01_SystemAnalysisDesign/week5.md",
     "01_SystemAnalysisDesign/week3.md",
@@ -543,8 +545,6 @@
     "01_SystemAnalysisDesign/week4.md",
     "03_ManagementInformationSystem/week4.md",
     "03_ManagementInformationSystem/week3.md",
-    "03_ManagementInformationSystem/week2.md",
-    "03_ManagementInformationSystem/week1.md",
     "index_backup.html",
     "_config.yml",
     "assets/css/style.scss",
