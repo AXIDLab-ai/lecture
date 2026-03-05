@@ -1,9 +1,9 @@
 # 📘 시스템분석설계 (System Analysis and Design)
 
-![Institution](https://img.shields.io/badge/TUKorea-한국공학대학교-blue)
-![Department](https://img.shields.io/badge/Department-IT경영전공-green)
-![Course Type](https://img.shields.io/badge/Type-전공필수-red)
-![Target](https://img.shields.io/badge/Target-3학년-orange)
+![Institution](https://img.shields.io/badge/TUKorea-한국공학대학교-444444?style=flat&logoColor=white)
+![Department](https://img.shields.io/badge/Department-IT경영전공-666666?style=flat&logoColor=white)
+![Course Type](https://img.shields.io/badge/Type-전공필수-777777?style=flat&logoColor=white)
+![Target](https://img.shields.io/badge/Target-3학년-555555?style=flat&logoColor=white)
 
 **[강의 로드맵 (Lecture Map) →](lectureMap.md)**
 
