@@ -2,7 +2,7 @@
 
 ## 📋 과목 개요
 
-**한국공학대학교 경영학부 | 강송희 교수**
+** 한국공학대학교 경영학부 | 강송희 교수 **
 
 - **수업방식**: PBL (Problem-Based Learning / Project-Based Learning)
 - **학습목표**: 조직의 비즈니스 요구사항 분석, SDLC 이해, Use Case/DFD/ERD/UML 모델링, 팀 기반 프로젝트 수행
