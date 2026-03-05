@@ -12,16 +12,9 @@ layout: default
 ![Research](https://img.shields.io/badge/Focus-Data_Driven_Innovation-555555?style=flat&logoColor=white)
 
 **한국공학대학교 AXID Lab 강송희 교수의 강의 아카이브입니다.**
-<<<<<<< HEAD
-본 레포지토리는 강의 자료 배포, 수강생 프로젝트 관리, 그리고 산학연 협력 기반의 실무 중심 교육을 위해 운영됩니다.
-
-**[GitHub Pages 사이트 방문 →](index.md)** (루트 네비게이션)
-
-=======
 본 레포지토리는 강의 자료 배포, 수강생 프로젝트 관리, 그리고 산학연 협력 기반의 실무 중심 교육을 위해 운영됩니다. 산업 환경에서 반복 관찰되는 현상을 체계적으로 기록하는 교육을 지향합니다. 
 > *These courses share a common structure: students do not merely complete projects, but run structured field experiments. Each course accumulates comparable case records describing when systems, services, or business models fail to operate as intended. The curriculum emphasizes observation and documentation of failure conditions rather than demonstration of success.*
 > *Beyond the Prompt: Why We Should Teach Students to Outsmart AI? The rise of Generative AI has sparked a debate in academia: Should we ban it or embrace it? I believe there is a more profound third path. We must train students to design questions and solve problems that AI cannot answer in a single click. Education is no longer about retrieving information; it’s about navigating complexity where AI hits a wall. The ultimate goal of AI-age education should be to develop "Inquiry Resilience." When we challenge students to formulate questions that require high-order thinking—analysis, evaluation, and creation—we aren't just making assignments harder for AI; we are making our students more human. As educators, our new mission is to foster the courage to face "un-promptable" problems.*
->>>>>>> b6999168a00e8d68f806c944628e115391abba5f
 ---
 
 ## 🔬 AXID Lab 소개 (About AXID Lab)
@@ -36,11 +29,7 @@ layout: default
 
 ### 🎯 전공 필수 과목
 
-<<<<<<< HEAD
-#### 📊 [시스템분석설계 (System Analysis and Design)](lecture/01_SystemAnalysisDesign/)
-=======
 #### 📊 [시스템분석설계 (System Analysis and Design)](01_SystemAnalysisDesign/)
->>>>>>> b6999168a00e8d68f806c944628e115391abba5f
 
 ![Course Type](https://img.shields.io/badge/Type-전공필수-darkgray)
 ![Target](https://img.shields.io/badge/Target-3학년-gray)
@@ -49,11 +38,7 @@ layout: default
 - **주요 내용**: 요구사항 분석, 시스템 설계, 프로젝트 관리
 - **실습 도구**: StarUML, PlantUML, GitHub
 
-<<<<<<< HEAD
-#### 🚀 [[EH] 창업아이디어설계를 위한 AX/DX 서비스 기획 (AX/DX Service Design & Prototype)](lecture/02_[EH]AXDXServiceDesign&Prototype/)
-=======
 #### 🚀 [[EH] 창업아이디어설계를 위한 AX/DX 서비스 기획 (AX/DX Service Design & Prototype)](02_%5BEH%5DAXDXServiceDesign%26Prototype/)
->>>>>>> b6999168a00e8d68f806c944628e115391abba5f
 
 ![Course Type](https://img.shields.io/badge/Type-전공필수-darkgray)
 ![Target](https://img.shields.io/badge/Target-3_4학년-gray)
@@ -66,11 +51,7 @@ layout: default
 
 ### 🎓 전공 선택 과목
 
-<<<<<<< HEAD
-#### 📈 [경영정보시스템 (Management Information Systems)](lecture/03_ManagementInformationSystem/)
-=======
 #### 📈 [경영정보시스템 (Management Information Systems)](03_ManagementInformationSystem/)
->>>>>>> b6999168a00e8d68f806c944628e115391abba5f
 
 ![Course Type](https://img.shields.io/badge/Type-전공선택-darkgray)
 ![Target](https://img.shields.io/badge/Target-4학년-gray)
@@ -80,11 +61,7 @@ layout: default
 - **주요 내용**: MIS 핵심 이론과 사례
 - **실습 도구**: 사례개발도구 (자체제작 템플릿)
 
-<<<<<<< HEAD
-#### 🏭 [인공지능 경영 (AI & Management)](lecture/04_AI&Management/)
-=======
 #### 🏭 [인공지능 경영 (AI & Management)](05_AI&Management/)
->>>>>>> b6999168a00e8d68f806c944628e115391abba5f
 
 ![Course Type](https://img.shields.io/badge/Type-전공선택-darkgray)
 ![Target](https://img.shields.io/badge/Target-2학년-gray)
@@ -96,11 +73,7 @@ layout: default
 
 ### 🎓 교양 필수 과목
 
-<<<<<<< HEAD
-#### 🏭 [파이썬프로그래밍 (Python Programming)](lecture/04_PythonProgramming/)
-=======
 #### 🏭 [파이썬프로그래밍 (Python Programming)](04_PythonProgramming/)
->>>>>>> b6999168a00e8d68f806c944628e115391abba5f
 
 ![Course Type](https://img.shields.io/badge/Type-교양필수-darkgray)
 ![Target](https://img.shields.io/badge/Target-1학년-gray)

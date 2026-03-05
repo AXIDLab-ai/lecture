@@ -1,0 +1,6 @@
+title: Lecture
+url: "https://axidlab-ai.github.io"
+baseurl: "/lecture"
+theme: minima
+exclude:
+  - README.md
