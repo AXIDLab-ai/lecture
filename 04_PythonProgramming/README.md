@@ -1,4 +1,5 @@
 **한국공학대학교 IT경영전공 파이썬 프로그래밍 실습 강의 아카이브입니다.**
+
 본 레포지토리는 실습 자료 배포 및 수강생들의 프로젝트 결과물 관리를 위해 운영됩니다.
 
 ![Institution](https://img.shields.io/badge/TUKorea-한국공학대학교-444444?style=flat&logoColor=white)
