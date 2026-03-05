@@ -1,0 +1,59 @@
+---
+---
+/* (1) GitHub Pages/Jekyll 테마를 쓰는 경우: 테마 CSS를 먼저 불러오고 */
+@import "{{ site.theme }}";
+
+/* (2) 그 위에 내 스타일을 덮어쓴다 */
+
+:root {
+  --bg: #ffffff;
+  --fg: #111111;
+  --muted: #666666;
+  --line: #e6e6e6;
+  --link: #111111;
+  --link-hover: #000000;
+}
+
+html, body {
+  background: var(--bg);
+  color: var(--fg);
+}
+
+body {
+  font-family: var(--font-body, system-ui, -apple-system, Segoe UI, Roboto, "Noto Sans KR", sans-serif);
+  line-height: 1.7;
+  letter-spacing: -0.01em;
+}
+
+a {
+  color: var(--link);
+  text-decoration: underline;
+  text-decoration-color: var(--line);
+  text-underline-offset: 3px;
+}
+a:hover {
+  color: var(--link-hover);
+  text-decoration-color: var(--muted);
+}
+
+hr {
+  border: 0;
+  border-top: 1px solid var(--line);
+  margin: 28px 0;
+}
+
+h1, h2, h3 {
+  letter-spacing: -0.02em;
+}
+
+blockquote {
+  border-left: 4px solid var(--line);
+  color: var(--muted);
+  padding: 6px 16px;
+  margin: 18px 0;
+}
+
+img {
+  filter: grayscale(100%); /* 이미지까지 “그레이” 처리하고 싶다면 */
+  opacity: 0.95;
+}
