@@ -1,4 +1,3 @@
-# 📚 경영정보시스템(Management Information System)
 ![Institution](https://img.shields.io/badge/TUKorea-한국공학대학교-444444?style=flat&logoColor=white)
 ![Department](https://img.shields.io/badge/Department-경영학부-666666?style=flat&logoColor=white)
 ![Course Type](https://img.shields.io/badge/Type-전공선택-777777?style=flat&logoColor=white)
