@@ -1,8 +1,8 @@
 # 📚 경영정보시스템(Management Information System)
-![Institution](https://img.shields.io/badge/TUKorea-한국공학대학교-blue)
-![Department](https://img.shields.io/badge/Department-경영학부-green)
-![Course Type](https://img.shields.io/badge/Type-전공선택-red)
-![Target](https://img.shields.io/badge/Target-4학년-orange)
+![Institution](https://img.shields.io/badge/TUKorea-한국공학대학교-444444?style=flat&logoColor=white)
+![Department](https://img.shields.io/badge/Department-경영학부-666666?style=flat&logoColor=white)
+![Course Type](https://img.shields.io/badge/Type-전공선택-777777?style=flat&logoColor=white)
+![Target](https://img.shields.io/badge/Target-4학년-555555?style=flat&logoColor=white)
 
 **[강의 로드맵 (Lecture Map) →](lectureMap.md)**
 
