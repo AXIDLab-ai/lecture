@@ -1,7 +1,6 @@
-# Week 1: 오리엔테이션 & AX/DX 기초
-
 [목차](./README.md) | [다음: Week 2 →](./week2.md)
 
+Week 1: 오리엔테이션, AX/DX 기초
 ---
 
 ## 📌 학습 목표
