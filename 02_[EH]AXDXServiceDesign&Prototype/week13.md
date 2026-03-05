@@ -1,4 +1,4 @@
-[← 이전: Week 12](./week12.md) | [목차](./README.md) | [다음: Week 14 →](./week14.md)
+[← 이전: Week 12](./week12.md) | [목차](./lectureMap.md) | [다음: Week 14 →](./week14.md)
 
 Week 13: UI/UX Design & Implementation
 

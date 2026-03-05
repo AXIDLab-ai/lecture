@@ -1,6 +1,7 @@
-# Week 7: 리스트와 튜플
 
 **[← Week 6](./week6.md) | [목차](lecture/04_PythonProgramming/lectureMap.md) | [다음: Week 8 →](./week8.md)**
+
+Week 7: 리스트와 튜플
 
 ---
 

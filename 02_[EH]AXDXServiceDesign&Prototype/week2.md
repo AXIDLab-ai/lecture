@@ -1,4 +1,4 @@
-[← 이전: Week 1](./week1.md) | [목차](./README.md) | [다음: Week 3 →](./week3.md)
+[← 이전: Week 1](./week1.md) | [목차](./lectureMap.md) | [다음: Week 3 →](./week3.md)
 
 Week 2: 프로젝트 캔버스
 

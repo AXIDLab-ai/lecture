@@ -1,9 +1,9 @@
-# Week 1: 파이썬 들여다보기
 
 --[목차](lecture/04_PythonProgramming/lectureMap.md) | [다음: Week 2 →](./week2.md)--
 
----
+Week 1: 파이썬 들여다보기
 
+---
 ## 🎯 학습 목표
 
 이번 주 실습을 완료하면 다음과 같은 능력을 갖추게 됩니다:

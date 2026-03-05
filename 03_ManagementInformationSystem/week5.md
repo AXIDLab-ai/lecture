@@ -1,4 +1,6 @@
-# [강의 요약] 경영정보시스템(MIS) 5주차: 프로세스·통합 (Process & Integration)
+--[← Week 4](./week4.md) | [목차](lectureMap.md) | [다음: Week 6 →](./week6.md)--
+
+[강의 요약] 경영정보시스템(MIS) 5주차: 프로세스·통합 (Process & Integration)
 
 ## 0. 리딩 메시지 (Core Insight)
 > [cite_start]"기술 도입은 '비효율의 자동화'가 되어서는 안 된다. 진정한 혁신은 부서 간 장벽(Silo)을 허무는 '엔드투엔드(E2E) 프로세스' 설계와 전사적 데이터 '통합(Integration)'이 결합될 때 비로소 완성된다." [cite: 17006, 17008]

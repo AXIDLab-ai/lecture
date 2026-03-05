@@ -1,4 +1,6 @@
-# [강의 요약] 경영정보시스템(MIS) 3주차: 사회기술시스템(STS) 및 변화관리
+--[← Week 2](./week2.md) | [목차](lectureMap.md) | [다음: Week 4 →](./week4.md)--
+
+[강의 요약] 경영정보시스템(MIS) 3주차: 사회기술시스템(STS) 및 변화관리
 
 ## 0. 리딩 메시지 (Core Insight)
 > [cite_start]"시스템 성과 = 기술 × 프로세스 × 사람 × 구조[cite: 5601]. [cite_start]이 중 하나라도 0이면 전체 성과는 0이 된다[cite: 5602]. [cite_start]성공적인 IT 도입은 단순한 기술 설치가 아니라 기술적 효율성과 인간적 만족의 '공동 최적화(Joint Optimization)' 과정이다[cite: 3887, 3915]."

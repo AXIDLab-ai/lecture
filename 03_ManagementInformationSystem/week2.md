@@ -1,4 +1,6 @@
-# [강의 요약] 경영정보시스템(MIS) 2주차: 전략-IT 정렬 (Strategic Alignment)
+--[← Week 1](./week1.md) | [목차](lectureMap.md) | [다음: Week 3 →](./week3.md)--
+
+[강의 요약] 경영정보시스템(MIS) 2주차: 전략-IT 정렬 (Strategic Alignment)
 
 ## 0. 리딩 메시지 (핵심 통찰)
 > [cite_start]"성공적인 디지털 경영은 기술 도입 자체가 아닌, 비즈니스 목표와 IT 역량의 정교한 동기화(Alignment)에서 시작된다. 기술은 도구일 뿐, 전략과의 정렬이 실질적인 성과를 만든다." [cite: 1905, 3746]

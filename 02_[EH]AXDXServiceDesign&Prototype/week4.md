@@ -1,4 +1,4 @@
-[← 이전: Week 3](./week3.md) | [목차](./README.md) | [다음: Week 11 →](./week11.md)
+[← 이전: Week 3](./week3.md) | [목차](./lectureMap.md) | [다음: Week 11 →](./week11.md)
 
 Week 4: BMC & 시장 예측
 
