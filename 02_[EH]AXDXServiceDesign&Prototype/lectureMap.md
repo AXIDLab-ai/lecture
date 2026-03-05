@@ -1,10 +1,6 @@
-# 창업 아이디어 설계를 위한 AX/DX 서비스 기획
+## 창업 아이디어 설계를 위한 AX/DX 서비스 기획
 
 > 🚀 AI/DX 혁신을 통한 실전 서비스 기획 역량 함양
-
-[![License: CC BY-NC](https://img.shields.io/badge/License-CC%20BY--NC-blue.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
-[![Course Status](https://img.shields.io/badge/Status-Complete-green.svg)](.)
-[![Weeks](https://img.shields.io/badge/Weeks-8-orange.svg)](.)
 
 ---
 
