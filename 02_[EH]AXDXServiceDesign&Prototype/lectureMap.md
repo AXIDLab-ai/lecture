@@ -49,7 +49,7 @@ cd AXDX_ServicePlanning
 ```
 
 ### 2. 학습 순서
-1. 📋 [전체 강의 맵](lecture/02_[EH]AXDXServiceDesign&Prototype/lectureMap.md) 먼저 읽기
+1. 📋 [전체 강의 맵](./lectureMap.md) 먼저 읽기
 2. 🔢 주차 순서대로 학습 (Week 1 → Week 2 → ...)
 3. ✅ 각 주차별 체크리스트 완료
 4. 🛠️ 실습 과제 수행
@@ -102,7 +102,7 @@ cd AXDX_ServicePlanning
 
 ## 🎯 최종 텀 프로젝트 가이드
 
- * [[projectGuide]]와 [[projectSample]] 참조
+ * [projectGuide(./projectGuide.md)]와 [projectSample(./projectSample.md)] 참조
 ---
 
 ## 📁 문서 구조
