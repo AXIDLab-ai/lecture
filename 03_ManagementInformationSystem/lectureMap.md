@@ -1,10 +1,6 @@
-# # 디지털 경쟁우위 확보를 위한 경영정보시스템(MIS) 6렌즈 프레임워크
+## 디지털 경쟁우위 확보를 위한 경영정보시스템(MIS) 6렌즈 프레임워크
 
 > 🚀 6렌즈 프레임워크와 AX(AI Transformation)를 통한 지속가능한 디지털 경쟁우위 확보
-
-[![License: CC BY-NC](https://img.shields.io/badge/License-CC%20BY--NC-blue.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
-[![Course Status](https://img.shields.io/badge/Status-Complete-green.svg)](.)
-[![Weeks](https://img.shields.io/badge/Weeks-14-orange.svg)](.)
 
 ---
 
