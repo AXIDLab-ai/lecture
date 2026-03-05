@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Lecture
 # 📚 강송희 교수 강의 아카이브 
 (Prof. Songhee Kang's Lecture Repository)
