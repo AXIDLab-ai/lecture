@@ -6,10 +6,10 @@ layout: default
 # 📚 강송희 교수 강의 아카이브 
 (Prof. Songhee Kang's Lecture Repository)
 
-![Institution](https://img.shields.io/badge/TUKorea-한국공학대학교-blue)
-![Lab](https://img.shields.io/badge/Lab-AXID_Lab-purple)
-![Department](https://img.shields.io/badge/Department-IT경영전공-green)
-![Research](https://img.shields.io/badge/Focus-Data_Driven_Innovation-orange)
+![Institution](https://img.shields.io/badge/TUKorea-한국공학대학교-444444?style=flat&logoColor=white)
+![Lab](https://img.shields.io/badge/Lab-AXID_Lab-666666?style=flat&logoColor=white)
+![Department](https://img.shields.io/badge/Department-IT경영전공-777777?style=flat&logoColor=white)
+![Research](https://img.shields.io/badge/Focus-Data_Driven_Innovation-555555?style=flat&logoColor=white)
 
 **한국공학대학교 AXID Lab 강송희 교수의 강의 아카이브입니다.**
 본 레포지토리는 강의 자료 배포, 수강생 프로젝트 관리, 그리고 산학연 협력 기반의 실무 중심 교육을 위해 운영됩니다. 산업 환경에서 반복 관찰되는 현상을 체계적으로 기록하는 교육을 지향합니다. 
@@ -31,8 +31,8 @@ layout: default
 
 #### 📊 [시스템분석설계 (System Analysis and Design)](01_SystemAnalysisDesign/)
 
-![Course Type](https://img.shields.io/badge/Type-전공필수-red)
-![Target](https://img.shields.io/badge/Target-3학년-orange)
+![Course Type](https://img.shields.io/badge/Type-전공필수-darkgray)
+![Target](https://img.shields.io/badge/Target-3학년-gray)
 
 - **강의 목표**: SDLC 이해 및 UML을 활용한 시스템 모델링
 - **주요 내용**: 요구사항 분석, 시스템 설계, 프로젝트 관리
@@ -40,8 +40,8 @@ layout: default
 
 #### 🚀 [[EH] 창업아이디어설계를 위한 AX/DX 서비스 기획 (AX/DX Service Design & Prototype)](02_%5BEH%5DAXDXServiceDesign%26Prototype/)
 
-![Course Type](https://img.shields.io/badge/Type-전공필수-blue)
-![Target](https://img.shields.io/badge/Target-3_4학년-yellow)
+![Course Type](https://img.shields.io/badge/Type-전공필수-darkgray)
+![Target](https://img.shields.io/badge/Target-3_4학년-gray)
 
 > 본 과목은 프로토타입 제작을 통해 서비스 채택이 실패하는 조건을 반복 관찰하는 실험형 수업이다.
 > 비즈니스 모델을 설계하기보다 가설이 무효화되는 시장 조건을 검증하고 피봇 유형을 기록한다.
@@ -53,8 +53,8 @@ layout: default
 
 #### 📈 [경영정보시스템 (Management Information Systems)](03_ManagementInformationSystem/)
 
-![Course Type](https://img.shields.io/badge/Type-전공선택-purple)
-![Target](https://img.shields.io/badge/Target-4학년-yellow)
+![Course Type](https://img.shields.io/badge/Type-전공선택-darkgray)
+![Target](https://img.shields.io/badge/Target-4학년-gray)
 
 > 학생들은 기업 사례를 분석하는 것이 아니라 동일 형식의 시스템 실패 패턴을 구조화하여 축적한다.
 - **강의 목표**: 6가지 이론적 관점을 기반으로 경영정보시스템 사례 개발
@@ -63,8 +63,8 @@ layout: default
 
 #### 🏭 [인공지능 경영 (AI & Management)](04_AI&Management/)
 
-![Course Type](https://img.shields.io/badge/Type-전공선택-purple)
-![Target](https://img.shields.io/badge/Target-2학년-yellow)
+![Course Type](https://img.shields.io/badge/Type-전공선택-darkgray)
+![Target](https://img.shields.io/badge/Target-2학년-gray)
 
 > 일부 교육 자료는 연구 출판 및 데이터 보호 정책에 따라 제한적으로 제공됩니다.
 - **강의 목표**: 인공지능 경영
@@ -75,8 +75,8 @@ layout: default
 
 #### 🏭 [파이썬프로그래밍 (Python Programming)](04_PythonProgramming/)
 
-![Course Type](https://img.shields.io/badge/Type-교양필수-purple)
-![Target](https://img.shields.io/badge/Target-1학년-yellow)
+![Course Type](https://img.shields.io/badge/Type-교양필수-darkgray)
+![Target](https://img.shields.io/badge/Target-1학년-gray)
 
 - **강의 목표**: 파이썬 프로그래밍 기초 
 - **주요 내용**: 파이썬 프로그래밍 기초 지식 함양 및 실습
