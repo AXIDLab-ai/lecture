@@ -1,12 +1,12 @@
+**한국공학대학교 IT경영전공 파이썬 프로그래밍 실습 강의 아카이브입니다.**
+본 레포지토리는 실습 자료 배포 및 수강생들의 프로젝트 결과물 관리를 위해 운영됩니다.
+
 ![Institution](https://img.shields.io/badge/TUKorea-한국공학대학교-444444?style=flat&logoColor=white)
 ![Department](https://img.shields.io/badge/Department-IT경영전공-666666?style=flat&logoColor=white)
-![Course Type](https://img.shields.io/badge/Type-교양필수-777777?style=flat&logoColor=white)
+![Course Type](https://img.shields.io/badge/Type-기선(교양)-777777?style=flat&logoColor=white)
 ![Target](https://img.shields.io/badge/Target-1학년-555555?style=flat&logoColor=white)
 
 **[강의 로드맵 (Lecture Map) →](lectureMap.md)**
-
-**한국공학대학교 IT경영전공 파이썬 프로그래밍 실습 강의 아카이브입니다.**
-본 레포지토리는 강의 자료 배포 및 수강생들의 프로젝트 결과물 관리를 위해 운영됩니다.
 
 ---
 
@@ -15,9 +15,9 @@
 파이썬 프로그래밍의 기초부터 실전 프로젝트까지 체계적으로 학습하는 실습 중심 강의입니다.
 
 * **강의명:** 파이썬 프로그래밍 (Python Programming)
-* **수강 대상:** 경영학부 1학년 (전공선택)
+* **수강 대상:** 경영학부 1학년 (기선(교양))
 * **교수자:** [강송희] (dellabee@tukorea.ac.kr)
-* **강의실/시간:** [강의실 호수] / [요일 및 시간]
+* **강의실/시간:** [D-401] / [목요일 09:30]
 
 ### 🎯 학습 목표
 1. 파이썬 기본 문법과 자료구조 완전 마스터
