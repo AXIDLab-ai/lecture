@@ -335,12 +335,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_PythonProgramming/lectureMap.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lectureMap"
+              "title": "index"
             }
           }
         ],
@@ -519,6 +519,18 @@
   },
   "active": "5f31c49c020f537b",
   "lastOpenFiles": [
+    "README.md",
+    "05_AI&Management/README.md",
+    "04_PythonProgramming/lectureMap.md",
+    "03_ManagementInformationSystem/lectureMap.md",
+    "03_ManagementInformationSystem/caseStudyGuide.md",
+    "02_[EH]AXDXServiceDesign&Prototype/lectureMap.md",
+    "01_SystemAnalysisDesign/lectureMap.md",
+    "01_SystemAnalysisDesign/week1.md",
+    "01_SystemAnalysisDesign/README.md",
+    "03_ManagementInformationSystem/README.md",
+    "04_PythonProgramming/week3.md",
+    "04_PythonProgramming/week2.md",
     "04_PythonProgramming/week1.md",
     "04_PythonProgramming/week14.md",
     "04_PythonProgramming/week13.md",
@@ -534,19 +546,7 @@
     "04_PythonProgramming/week6.md",
     "04_PythonProgramming/week5.md",
     "04_PythonProgramming/week4.md",
-    "04_PythonProgramming/week3.md",
-    "04_PythonProgramming/week2.md",
     "03_ManagementInformationSystem/week10.md",
-    "03_ManagementInformationSystem/week9.md",
-    "03_ManagementInformationSystem/lectureMap.md",
-    "03_ManagementInformationSystem/week7.md",
-    "03_ManagementInformationSystem/week6.md",
-    "03_ManagementInformationSystem/week5.md",
-    "03_ManagementInformationSystem/week4.md",
-    "03_ManagementInformationSystem/week3.md",
-    "03_ManagementInformationSystem/week2.md",
-    "03_ManagementInformationSystem/week1.md",
-    "03_ManagementInformationSystem/README.md",
     "lecture/02_[EH]AXDXServiceDesign&Prototype",
     "index_backup.html",
     "_config.yml",

@@ -102,7 +102,7 @@ cd AXDX_ServicePlanning
 
 ## 🎯 최종 텀 프로젝트 가이드
 
- * [projectGuide(./projectGuide.md)]와 [projectSample(./projectSample.md)] 참조
+ * [projectGuide](./projectGuide.md)와 [projectSample](./projectSample.md) 참조
 ---
 
 ## 📁 문서 구조
@@ -135,6 +135,7 @@ AXDX_ServicePlanning/
 - **markdownlint**: 문법 체크
 
 ### GitHub에서 보기 좋게 하는 방법
+
 ```markdown
 <!-- 목차 자동 생성 -->
 - [Week 1](#week-1-오리엔테이션--axdx-기초)
