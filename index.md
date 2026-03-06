@@ -73,9 +73,9 @@ layout: default
 
 ### 🎓 기초 선택(교양) 과목
 
-#### 🏭 [파이썬프로그래밍 (Python Programming)](04_PythonProgramming/)
+#### 🏭 [파이썬프로그래밍 (Python Programming)]
 
-![Course Type](https://img.shields.io/badge/Type-교양필수-darkgray)
+![Course Type](https://img.shields.io/badge/Type-기초선택-darkgray)
 ![Target](https://img.shields.io/badge/Target-1학년-gray)
 
 - **강의 목표**: 파이썬 프로그래밍 기초 
