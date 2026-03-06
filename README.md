@@ -99,7 +99,7 @@ layout: default
 <<<<<<< HEAD
 #### 🏭 [파이썬프로그래밍 (Python Programming)](lecture/04_PythonProgramming/)
 =======
-#### 🏭 [파이썬프로그래밍 (Python Programming)]
+#### 🏭 파이썬프로그래밍 (Python Programming)
 >>>>>>> b6999168a00e8d68f806c944628e115391abba5f
 
 ![Course Type](https://img.shields.io/badge/Type-기초선택-darkgray)
