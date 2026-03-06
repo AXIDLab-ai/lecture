@@ -73,7 +73,7 @@ layout: default
 
 ### 🎓 기초 선택(교양) 과목
 
-#### 🏭 [파이썬프로그래밍 (Python Programming)]
+#### 🏭 파이썬프로그래밍 (Python Programming)
 
 ![Course Type](https://img.shields.io/badge/Type-기초선택-darkgray)
 ![Target](https://img.shields.io/badge/Target-1학년-gray)
