@@ -36,7 +36,7 @@
 | **Week 5**  | 프로세스 관점 & 통합         | BPM, ERP/SCM/CRM, SSOT 원칙   | [📄 week5.md](./week5.md)                                        |
 | **Week 6**  | IT 거버넌스 & 투자성과       | RACI 모델, ROI/TCO 분석, BSC    | [📄 week6.md](./week6.md)                                        |
 | **Week 7**  | 디지털 경쟁우위             | 플랫폼, 네트워크 효과, 전환비용          | [📄 week7.md](./week7.md)                                        |
-| **Week 8**  | **Mid-term Project** | **[6렌즈 기반 기업 분석 보고서]**      | -                                                                |
+| **Week 8**  | **Mid-term Exam** | **중간 시험**      |[📄 midtermQbank.md](./midtermQbank.md)                                                               |
 | **Week 9**  | 역량 매핑 & EA 기초        | Capability Map, EA 4레이어 구조  | [📄 week9.md](./week9.md)                                        |
 | **Week 10** | EA 이행 & 전환 관리        | Build vs Buy, 마이그레이션 전략     | [📄 week10.md](lecture/03_ManagementInformationSystem/week10.md) |
 | **Week 11** | 데이터 거버넌스             | 품질 관리, 메타데이터, 보안(CIA)       | [📄 week11.md](lecture/03_ManagementInformationSystem/week11.md) |
