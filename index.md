@@ -1,11 +1,12 @@
-# AXID Lab Lecture Archive
+# AXID Lab Lecture Archive  
 ### 강송희 교수 강의 아카이브
 
 ![AXID Lab](https://img.shields.io/badge/AXID-Lab-00897B?style=for-the-badge)
 ![Teaching Repository](https://img.shields.io/badge/Teaching-Repository-546E7A?style=for-the-badge)
 ![AI Inquiry Resilience](https://img.shields.io/badge/AI%20Inquiry-Resilience-00897B?style=for-the-badge)
 
-**Data-driven Decisions · Field-driven Innovation · Industry-Academia Collaboration**  
+**Data-driven Decisions · Field-driven Innovation · Industry-Academia Collaboration**
+
 **데이터 기반 의사결정 · 현장 중심 혁신 · 산학연 협력**
 
 > **Build questions that AI cannot simply answer.**  
@@ -15,7 +16,8 @@
 
 ## 1. About This Repository · 저장소 소개
 
-**This repository is the official lecture archive of Prof. Songhee Kang and AXID Lab at Tech University of Korea.**  
+**This repository is the official lecture archive of Prof. Songhee Kang and AXID Lab at Tech University of Korea.**
+
 **본 저장소는 한국공학대학교 AXID Lab 강송희 교수의 공식 강의 아카이브입니다.**
 
 This repository supports lecture material distribution, student project management, GitHub-based submissions, and practice-oriented learning connected to real industrial problems.
@@ -26,6 +28,8 @@ This repository supports lecture material distribution, student project manageme
 
 ## 2. Teaching Philosophy · 교육 철학
 
+![Philosophy](https://img.shields.io/badge/Philosophy-AI--Inquiry%20Resilience-00897B?style=flat-square)
+
 ### AI-Inquiry Resilience  
 ### AI 시대의 질문 회복탄력성
 
@@ -35,22 +39,25 @@ It is about asking better questions, testing AI-generated outputs, and grounding
 생성형 AI 시대의 학습은 한 번의 클릭으로 완벽한 답을 얻는 일이 아닙니다.  
 더 나은 질문을 만들고, AI가 만든 답을 비판적으로 검토하며, AI가 쉽게 추론할 수 없는 실제 맥락과 현장 데이터에 기반해 판단하는 과정입니다.
 
-> **The fragility of AI systems does not arise merely from technical failure, but from gaps in accountability. A highly resilient organization is not one that eliminates failure, but one that can reconfigure responsibility, control, and its operational objective function the moment the possibility of failure becomes perceptible.**  
+> **The fragility of AI systems does not arise merely from technical failure, but from gaps in accountability. A highly resilient organization is not one that eliminates failure, but one that can reconfigure responsibility, control, and its operational objective function the moment the possibility of failure becomes perceptible.**
+>
 > **AI 시스템의 취약성은 단순한 기술 실패에서만 발생하는 것이 아니라 책임성의 공백에서 발생합니다. 고탄력 조직은 실패를 없애는 조직이 아니라, 실패 가능성이 감지되는 순간 책임·통제·운영 목적함수를 전환할 수 있는 조직입니다.**
 
 ### Core Principles · 핵심 원칙
 
 | Principle | English | 국문 |
 |---|---|---|
-| Problem Reframing | Critique why the AI-framed problem may be flawed | AI가 제시한 문제틀 자체를 비판한다 |
-| Contextual Depth | Use local, field-based, and non-generic data | 현장 기반 맥락과 비일반 데이터를 활용한다 |
-| Iterative Struggle | Value failed prompts, pivots, and reasoning traces | 실패한 프롬프트와 논리적 전환 과정을 평가한다 |
-| Evidence-based Judgment | Link outputs to data, assumptions, and risks | 산출물을 데이터·가정·리스크와 연결한다 |
-| Accountability Transition | Examine who explains, absorbs, and governs AI-mediated outcomes | AI 매개 결과를 누가 설명하고 부담하며 통제하는지 검토한다 |
+| **Problem Reframing** | Critique why the AI-framed problem may be flawed | AI가 제시한 문제틀 자체를 비판한다 |
+| **Contextual Depth** | Use local, field-based, and non-generic data | 현장 기반 맥락과 비일반 데이터를 활용한다 |
+| **Iterative Struggle** | Value failed prompts, pivots, and reasoning traces | 실패한 프롬프트와 논리적 전환 과정을 평가한다 |
+| **Evidence-based Judgment** | Link outputs to data, assumptions, and risks | 산출물을 데이터·가정·리스크와 연결한다 |
+| **Accountability Transition** | Examine who explains, absorbs, and governs AI-mediated outcomes | AI 매개 결과를 누가 설명하고 부담하며 통제하는지 검토한다 |
 
 ---
 
 ## 3. AXID Lab · 연구실 소개
+
+![Research](https://img.shields.io/badge/Focus-Research%20%26%20Teaching-00897B?style=flat-square)
 
 **AXID Lab** studies how organizations make better decisions and create field-driven innovation through digital technologies, data, and AI.
 
@@ -60,17 +67,19 @@ It is about asking better questions, testing AI-generated outputs, and grounding
 
 | Area | Description | 설명 |
 |---|---|---|
-| Data-driven Decisions | Evidence-based decision-making using data and AI | 데이터와 AI 기반의 증거 중심 의사결정 |
-| Field-driven Innovation | Practical innovation grounded in real industrial contexts | 실제 산업 현장 문제에 기반한 실용 혁신 |
-| AI Literacy & Governance | Responsible use, evaluation, and adoption of AI | 책임 있는 AI 이해·평가·도입 |
-| Digital Transformation | Service, process, and organizational transformation | 서비스·프로세스·조직의 디지털 전환 |
-| Accountability Transitions | How responsibility shifts when AI changes work and decision-making | AI가 업무와 의사결정을 바꿀 때 책임이 어떻게 이동하는가 |
+| **Data-driven Decisions** | Evidence-based decision-making using data and AI | 데이터와 AI 기반의 증거 중심 의사결정 |
+| **Field-driven Innovation** | Practical innovation grounded in real industrial contexts | 실제 산업 현장 문제에 기반한 실용 혁신 |
+| **AI Literacy & Governance** | Responsible use, evaluation, and adoption of AI | 책임 있는 AI 이해·평가·도입 |
+| **Digital Transformation** | Service, process, and organizational transformation | 서비스·프로세스·조직의 디지털 전환 |
+| **Accountability Transitions** | How responsibility shifts when AI changes work and decision-making | AI가 업무와 의사결정을 바꿀 때 책임이 어떻게 이동하는가 |
 
 ---
 
 ## 4. Courses · 개설 강의
 
-### Major Required · 전공 필수
+![Courses](https://img.shields.io/badge/Courses-Teaching%20Archive-00897B?style=flat-square)
+
+### 4.1 Major Required · 전공 필수
 
 #### [시스템분석설계 · System Analysis and Design](./01_SystemAnalysisDesign/)
 
@@ -117,7 +126,7 @@ It is about asking better questions, testing AI-generated outputs, and grounding
 
 ---
 
-### Major Elective · 전공 선택
+### 4.2 Major Elective · 전공 선택
 
 #### [경영정보시스템 · Management Information Systems](./03_ManagementInformationSystem/)
 
@@ -163,7 +172,7 @@ It is about asking better questions, testing AI-generated outputs, and grounding
 
 ---
 
-### General Education · 기초 선택 / 교양
+### 4.3 General Education · 기초 선택 / 교양
 
 #### 파이썬프로그래밍 · Python Programming
 
@@ -220,6 +229,8 @@ root/
 ---
 
 ## 6. Submission Guide · 과제 제출 가이드
+
+![Submission](https://img.shields.io/badge/Submission-GitHub%20Flow-00897B?style=flat-square)
 
 ### GitHub Flow
 
@@ -280,6 +291,8 @@ git push origin coursename-weekXX-studentname
 
 ## 9. Academic Integrity · 학습 윤리
 
+![Integrity](https://img.shields.io/badge/Academic-Integrity-00897B?style=flat-square)
+
 > **AI tools may assist your work, but they must not replace your thinking.**  
 > **AI 도구는 학습을 도울 수 있지만, 사고를 대체해서는 안 됩니다.**
 
@@ -287,12 +300,16 @@ git push origin coursename-weekXX-studentname
 
 - Cite sources and references clearly.  
   출처와 참고자료를 명확히 밝힙니다.
+
 - Record the reasoning process behind AI-assisted outputs.  
   AI 활용 산출물의 사고 과정을 기록합니다.
+
 - Do not submit copied code, copied reports, or AI outputs without review.  
   검토 없는 복사 코드, 보고서, AI 산출물 제출을 금지합니다.
+
 - Projects must be connected to real or plausible industrial problems.  
   모든 프로젝트는 실제 또는 현실성 있는 산업 문제와 연결되어야 합니다.
+
 - Make accountability explicit.  
   AI가 만든 결과의 책임, 검토자, 사용 조건을 명확히 기록합니다.
 
@@ -318,5 +335,6 @@ For course-related questions, please use the relevant course folder or GitHub Is
 ![Theme](https://img.shields.io/badge/Theme-Grayscale%20%2B%20Teal%20Green-00897B?style=flat-square)
 ![AXID](https://img.shields.io/badge/AXID-Teaching%20Archive-00897B?style=flat-square)
 
-**Build questions that AI cannot simply answer.**  
+**Build questions that AI cannot simply answer.**
+
 **AI가 쉽게 답할 수 없는 질문을 만듭니다.**
