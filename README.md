@@ -19,7 +19,7 @@ layout: default
 
 =======
 본 레포지토리는 강의 자료 배포, 수강생 프로젝트 관리, 그리고 산학연 협력 기반의 실무 중심 교육을 위해 운영됩니다. 산업 환경에서 반복 관찰되는 현상을 체계적으로 기록하는 교육을 지향합니다. 
-**특히, AI 기술을 지렛대 삼아 실제 시장의 문제를 가장 빠르게 해결하고 데이터로 증명하는 사람을 양성하는 것이 목표입니다**
+고밀도 애자일 커리큘럼을 통해 AI 기술을 지렛대 삼아 실제 시장의 문제를 가장 빠르게 해결하고 데이터로 증명하는 사람을 양성하는 것이 목표입니다.
 > *These courses share a common structure: students do not merely complete projects, but run structured field experiments. Each course accumulates comparable case records describing when systems, services, or business models fail to operate as intended. The curriculum emphasizes observation and documentation of failure conditions rather than demonstration of success.*
 > *Beyond the Prompt: Why We Should Teach Students to Outsmart AI? The rise of Generative AI has sparked a debate in academia: Should we ban it or embrace it? I believe there is a more profound third path. We must train students to design questions and solve problems that AI cannot answer in a single click. Education is no longer about retrieving information; it’s about navigating complexity where AI hits a wall. The ultimate goal of AI-age education should be to develop "Inquiry Resilience." When we challenge students to formulate questions that require high-order thinking—analysis, evaluation, and creation—we aren't just making assignments harder for AI; we are making our students more human. As educators, our new mission is to foster the courage to face "un-promptable" problems.*
 >>>>>>> b6999168a00e8d68f806c944628e115391abba5f
