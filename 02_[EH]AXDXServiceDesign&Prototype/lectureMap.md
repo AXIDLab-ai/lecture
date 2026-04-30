@@ -27,16 +27,16 @@
 
 ### 🗓️ 커리큘럼 로드맵
 
-| 주차          | 주제                            | 핵심 활동                   | 파일 링크                       |
-| ----------- | ----------------------------- | ----------------------- | --------------------------- |
-| **Week 1**  | 오리엔테이션 & AX/DX 기초             | DX/AX 개념, 팀 구성, RACI    | [📄 week1.md](./week1.md)   |
-| **Week 2**  | 프로젝트 캔버스                      | 캔버스 작성, SMART 목표        | [📄 week2.md](./week2.md)   |
-| **Week 3**  | 서비스 분석 설계 & 요건 정의             | 문제 정의, As-Is/To-Be, SRS | [📄 week3.md](./week3.md)   |
-| **Week 4**  | BMC & 시장 예측                   | BMC 9블록, TAM/SAM/SOM    | [📄 week4.md](./week4.md)   |
-| **Week 11** | Conceptual Design             | User Journey, 와이어프레임    | [📄 week11.md](./week11.md) |
-| **Week 12** | Detailed Design               | API 설계, 보안 아키텍처         | [📄 week12.md](./week12.md) |
-| **Week 13** | UI/UX Design & Implementation | 디자인 시스템, 접근성            | [📄 week13.md](./week13.md) |
-| **Week 14** | Prototyping                   | 프로토타입 개발 및 테스트          | [📄 week14.md](./week14.md) |
+| 주차          | 주제                                | 핵심 활동                                               | 파일 링크                       |
+| ----------- | --------------------------------- | --------------------------------------------------- | --------------------------- |
+| **Week 1**  | 오리엔테이션 & AX/DX 기초                 | DX/AX 개념, 팀 구성, RACI                                | [📄 week1.md](./week1.md)   |
+| **Week 2**  | 프로젝트 캔버스                          | 캔버스 작성, SMART 목표                                    | [📄 week2.md](./week2.md)   |
+| **Week 3**  | 서비스 분석 설계 & 요건 정의                 | 문제 정의, As-Is/To-Be, SRS                             | [📄 week3.md](./week3.md)   |
+| **Week 4**  | BMC & 시장 예측                       | BMC 9블록, TAM/SAM/SOM                                | [📄 week4.md](./week4.md)   |
+| **Week 11** | 문제를 코드로 만들기 전에 테스트 가능한 요구사항으로 바꾸기 | 문제정의 → Journey → PRD → Acceptance Criteria → 테스트 설계 | [📄 week01.md](./week01.md) |
+| **Week 12** | UI를 만들기 전에 테스트로 사용자 행동을 정의하기      | Generative UI + 컴포넌트 TDD                            | [📄 week02.md](./week02.md) |
+| **Week 13** | 데이터와 KPI를 테스트로 검증 가능한 형태로 설계하기    | 데이터 + API + KPI + TDD                               | [📄 week03.md](./week03.md) |
+| **Week 14** | 작동하는 프로토타입을 배포하고 실험 가능한 서비스로 완성하기 | 디버깅 + 배포 + 실험 설계                                    | [📄 week04.md](./week04.md) |
 
 ---
 
