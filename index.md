@@ -1,30 +1,22 @@
-<div align="center">
-
-# AXID Lab Lecture Archive  
+# AXID Lab Lecture Archive
 ### 강송희 교수 강의 아카이브
 
-<img src="https://img.shields.io/badge/AXID-Lab-00897B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Teaching-Repository-546E7A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI%20Inquiry-Resilience-00897B?style=for-the-badge" />
-
-<br/>
+![AXID Lab](https://img.shields.io/badge/AXID-Lab-00897B?style=for-the-badge)
+![Teaching Repository](https://img.shields.io/badge/Teaching-Repository-546E7A?style=for-the-badge)
+![AI Inquiry Resilience](https://img.shields.io/badge/AI%20Inquiry-Resilience-00897B?style=for-the-badge)
 
 **Data-driven Decisions · Field-driven Innovation · Industry-Academia Collaboration**  
 **데이터 기반 의사결정 · 현장 중심 혁신 · 산학연 협력**
 
-<br/>
-
-**Build questions that AI cannot simply answer.**  
-**AI가 쉽게 답할 수 없는 질문을 만듭니다.**
-
-</div>
+> **Build questions that AI cannot simply answer.**  
+> **AI가 쉽게 답할 수 없는 질문을 만듭니다.**
 
 ---
 
 ## 1. About This Repository · 저장소 소개
 
-> **This repository is the official lecture archive of Prof. Songhee Kang and AXID Lab at Tech University of Korea.**  
-> **본 저장소는 한국공학대학교 AXID Lab 강송희 교수의 공식 강의 아카이브입니다.**
+**This repository is the official lecture archive of Prof. Songhee Kang and AXID Lab at Tech University of Korea.**  
+**본 저장소는 한국공학대학교 AXID Lab 강송희 교수의 공식 강의 아카이브입니다.**
 
 This repository supports lecture material distribution, student project management, GitHub-based submissions, and practice-oriented learning connected to real industrial problems.
 
@@ -34,12 +26,8 @@ This repository supports lecture material distribution, student project manageme
 
 ## 2. Teaching Philosophy · 교육 철학
 
-<div align="center">
-
 ### AI-Inquiry Resilience  
 ### AI 시대의 질문 회복탄력성
-
-</div>
 
 In the age of generative AI, learning is not about obtaining a perfect answer with one click.  
 It is about asking better questions, testing AI-generated outputs, and grounding decisions in real contexts that AI cannot simply infer.
@@ -84,7 +72,7 @@ It is about asking better questions, testing AI-generated outputs, and grounding
 
 ### Major Required · 전공 필수
 
-#### [시스템분석설계 · System Analysis and Design](01_SystemAnalysisDesign/)
+#### [시스템분석설계 · System Analysis and Design](./01_SystemAnalysisDesign/)
 
 ![Course Type](https://img.shields.io/badge/Type-전공필수-546E7A)
 ![Target](https://img.shields.io/badge/Target-3학년-9E9E9E)
@@ -103,7 +91,7 @@ It is about asking better questions, testing AI-generated outputs, and grounding
 
 ---
 
-#### [[EH] 창업아이디어설계를 위한 AX/DX 서비스 기획 · AX/DX Service Design & Prototype](02_%5BEH%5DAXDXServiceDesign%26Prototype/)
+#### [[EH] 창업아이디어설계를 위한 AX/DX 서비스 기획 · AX/DX Service Design & Prototype](./02_%5BEH%5DAXDXServiceDesign%26Prototype/)
 
 ![Course Type](https://img.shields.io/badge/Type-전공필수-546E7A)
 ![Target](https://img.shields.io/badge/Target-3--4학년-9E9E9E)
@@ -131,7 +119,7 @@ It is about asking better questions, testing AI-generated outputs, and grounding
 
 ### Major Elective · 전공 선택
 
-#### [경영정보시스템 · Management Information Systems](03_ManagementInformationSystem/)
+#### [경영정보시스템 · Management Information Systems](./03_ManagementInformationSystem/)
 
 ![Course Type](https://img.shields.io/badge/Type-전공선택-546E7A)
 ![Target](https://img.shields.io/badge/Target-4학년-9E9E9E)
@@ -153,7 +141,7 @@ It is about asking better questions, testing AI-generated outputs, and grounding
 
 ---
 
-#### [인공지능 경영 · AI & Management](05_AI&Management/)
+#### [인공지능 경영 · AI & Management](./05_AI%26Management/)
 
 ![Course Type](https://img.shields.io/badge/Type-전공선택-546E7A)
 ![Target](https://img.shields.io/badge/Target-2학년-9E9E9E)
@@ -299,16 +287,12 @@ git push origin coursename-weekXX-studentname
 
 - Cite sources and references clearly.  
   출처와 참고자료를 명확히 밝힙니다.
-
 - Record the reasoning process behind AI-assisted outputs.  
   AI 활용 산출물의 사고 과정을 기록합니다.
-
 - Do not submit copied code, copied reports, or AI outputs without review.  
   검토 없는 복사 코드, 보고서, AI 산출물 제출을 금지합니다.
-
 - Projects must be connected to real or plausible industrial problems.  
   모든 프로젝트는 실제 또는 현실성 있는 산업 문제와 연결되어야 합니다.
-
 - Make accountability explicit.  
   AI가 만든 결과의 책임, 검토자, 사용 조건을 명확히 기록합니다.
 
@@ -330,15 +314,9 @@ For course-related questions, please use the relevant course folder or GitHub Is
 
 ---
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Updated-2026-546E7A?style=flat-square" />
-<img src="https://img.shields.io/badge/Theme-Grayscale%20%2B%20Teal%20Green-00897B?style=flat-square" />
-<img src="https://img.shields.io/badge/AXID-Teaching%20Archive-00897B?style=flat-square" />
-
-<br/><br/>
+![Updated](https://img.shields.io/badge/Updated-2026-546E7A?style=flat-square)
+![Theme](https://img.shields.io/badge/Theme-Grayscale%20%2B%20Teal%20Green-00897B?style=flat-square)
+![AXID](https://img.shields.io/badge/AXID-Teaching%20Archive-00897B?style=flat-square)
 
 **Build questions that AI cannot simply answer.**  
 **AI가 쉽게 답할 수 없는 질문을 만듭니다.**
-
-</div>
