@@ -12,6 +12,11 @@
 **Data-driven Decisions · Field-driven Innovation · Industry-Academia Collaboration**  
 **데이터 기반 의사결정 · 현장 중심 혁신 · 산학연 협력**
 
+<br/>
+
+**Build questions that AI cannot simply answer.**  
+**AI가 쉽게 답할 수 없는 질문을 만듭니다.**
+
 </div>
 
 ---
@@ -21,7 +26,7 @@
 > **This repository is the official lecture archive of Prof. Songhee Kang and AXID Lab at Tech University of Korea.**  
 > **본 저장소는 한국공학대학교 AXID Lab 강송희 교수의 공식 강의 아카이브입니다.**
 
-It is designed for lecture material distribution, student project management, GitHub-based submissions, and practice-oriented education connected to real industrial problems.
+This repository supports lecture material distribution, student project management, GitHub-based submissions, and practice-oriented learning connected to real industrial problems.
 
 본 저장소는 강의자료 배포, 수강생 프로젝트 관리, GitHub 기반 과제 제출, 그리고 실제 산업 문제와 연결된 실무 중심 교육을 위해 운영됩니다.
 
@@ -42,6 +47,9 @@ It is about asking better questions, testing AI-generated outputs, and grounding
 생성형 AI 시대의 학습은 한 번의 클릭으로 완벽한 답을 얻는 일이 아닙니다.  
 더 나은 질문을 만들고, AI가 만든 답을 비판적으로 검토하며, AI가 쉽게 추론할 수 없는 실제 맥락과 현장 데이터에 기반해 판단하는 과정입니다.
 
+> **The fragility of AI systems does not arise merely from technical failure, but from gaps in accountability. A highly resilient organization is not one that eliminates failure, but one that can reconfigure responsibility, control, and its operational objective function the moment the possibility of failure becomes perceptible.**  
+> **AI 시스템의 취약성은 단순한 기술 실패에서만 발생하는 것이 아니라 책임성의 공백에서 발생합니다. 고탄력 조직은 실패를 없애는 조직이 아니라, 실패 가능성이 감지되는 순간 책임·통제·운영 목적함수를 전환할 수 있는 조직입니다.**
+
 ### Core Principles · 핵심 원칙
 
 | Principle | English | 국문 |
@@ -50,6 +58,7 @@ It is about asking better questions, testing AI-generated outputs, and grounding
 | Contextual Depth | Use local, field-based, and non-generic data | 현장 기반 맥락과 비일반 데이터를 활용한다 |
 | Iterative Struggle | Value failed prompts, pivots, and reasoning traces | 실패한 프롬프트와 논리적 전환 과정을 평가한다 |
 | Evidence-based Judgment | Link outputs to data, assumptions, and risks | 산출물을 데이터·가정·리스크와 연결한다 |
+| Accountability Transition | Examine who explains, absorbs, and governs AI-mediated outcomes | AI 매개 결과를 누가 설명하고 부담하며 통제하는지 검토한다 |
 
 ---
 
@@ -67,6 +76,7 @@ It is about asking better questions, testing AI-generated outputs, and grounding
 | Field-driven Innovation | Practical innovation grounded in real industrial contexts | 실제 산업 현장 문제에 기반한 실용 혁신 |
 | AI Literacy & Governance | Responsible use, evaluation, and adoption of AI | 책임 있는 AI 이해·평가·도입 |
 | Digital Transformation | Service, process, and organizational transformation | 서비스·프로세스·조직의 디지털 전환 |
+| Accountability Transitions | How responsibility shifts when AI changes work and decision-making | AI가 업무와 의사결정을 바꿀 때 책임이 어떻게 이동하는가 |
 
 ---
 
@@ -74,23 +84,115 @@ It is about asking better questions, testing AI-generated outputs, and grounding
 
 ### Major Required · 전공 필수
 
-| Course | Description | Tools |
-|---|---|---|
-| System Analysis and Design<br/>시스템분석설계 | SDLC, requirements analysis, UML modeling<br/>SDLC, 요구사항 분석, UML 모델링 | StarUML, PlantUML, GitHub |
-| AX/DX Service Design & Prototype<br/>AX/DX 서비스 기획 | Service design, UX, prototyping, AI-assisted development<br/>서비스 디자인, UX, 프로토타이핑, AI 기반 개발 | Figma, LLM tools, GitHub |
+#### [시스템분석설계 · System Analysis and Design](01_SystemAnalysisDesign/)
+
+![Course Type](https://img.shields.io/badge/Type-전공필수-546E7A)
+![Target](https://img.shields.io/badge/Target-3학년-9E9E9E)
+![Theme](https://img.shields.io/badge/Theme-System%20Modeling-00897B)
+
+- **강의 목표 · Goal**  
+  SDLC 이해 및 UML을 활용한 시스템 모델링  
+  Understanding SDLC and system modeling using UML
+
+- **주요 내용 · Topics**  
+  요구사항 분석, 시스템 설계, 프로젝트 관리  
+  Requirements analysis, system design, project management
+
+- **실습 도구 · Tools**  
+  StarUML, PlantUML, GitHub
+
+---
+
+#### [[EH] 창업아이디어설계를 위한 AX/DX 서비스 기획 · AX/DX Service Design & Prototype](02_%5BEH%5DAXDXServiceDesign%26Prototype/)
+
+![Course Type](https://img.shields.io/badge/Type-전공필수-546E7A)
+![Target](https://img.shields.io/badge/Target-3--4학년-9E9E9E)
+![Theme](https://img.shields.io/badge/Theme-AX%2FDX%20Prototype-00897B)
+
+> 본 과목은 프로토타입 제작을 통해 서비스 채택이 실패하는 조건을 반복 관찰하는 실험형 수업입니다.  
+> Rather than only designing business models, students repeatedly observe the conditions under which service adoption fails.
+
+- **강의 목표 · Goal**  
+  디지털 전환 시대의 서비스 기획 및 사용자 경험 설계  
+  Service planning and user experience design in the digital transformation era
+
+- **주요 내용 · Topics**  
+  고객 여정 분석, 서비스 디자인, 프로토타이핑, AI 기반 실험  
+  Customer journey analysis, service design, prototyping, AI-assisted experimentation
+
+- **실습 도구 · Tools**  
+  Figma, LLM-based development tools, GitHub, user research templates
+
+- **핵심 관점 · Core Perspective**  
+  AX/DX is driven less by performance gains than by renegotiation of accountability.  
+  AX/DX는 성능 향상보다 책임성의 재협상에 의해 더 크게 추동됩니다.
+
+---
 
 ### Major Elective · 전공 선택
 
-| Course | Description | Tools |
-|---|---|---|
-| Management Information Systems<br/>경영정보시스템 | MIS theories and case development<br/>MIS 핵심 이론과 사례 개발 | Case templates |
-| AI & Management<br/>인공지능 경영 | AI foundations, management applications, ethics<br/>AI 기초, 경영 적용, 윤리 | Scenario tools, AI tools |
+#### [경영정보시스템 · Management Information Systems](03_ManagementInformationSystem/)
 
-### General Education · 교양
+![Course Type](https://img.shields.io/badge/Type-전공선택-546E7A)
+![Target](https://img.shields.io/badge/Target-4학년-9E9E9E)
+![Theme](https://img.shields.io/badge/Theme-MIS%20Cases-00897B)
 
-| Course | Description | Tools |
-|---|---|---|
-| Python Programming<br/>파이썬프로그래밍 | Basic programming and hands-on exercises<br/>프로그래밍 기초와 실습 | Python, notebooks, GitHub |
+> 학생들은 기업 사례를 단순히 분석하는 것이 아니라, 반복적으로 나타나는 시스템 실패 패턴을 구조화하여 축적합니다.  
+> Students do not merely analyze corporate cases; they structure and accumulate recurring patterns of system failure.
+
+- **강의 목표 · Goal**  
+  6가지 이론적 관점을 기반으로 경영정보시스템 사례 개발  
+  Developing MIS cases based on multiple theoretical lenses
+
+- **주요 내용 · Topics**  
+  MIS 핵심 이론, 디지털 전환 사례, 시스템 실패와 조직적 대응  
+  MIS theories, digital transformation cases, system failures, and organizational responses
+
+- **실습 도구 · Tools**  
+  자체 제작 사례개발 템플릿, case analysis templates
+
+---
+
+#### [인공지능 경영 · AI & Management](05_AI&Management/)
+
+![Course Type](https://img.shields.io/badge/Type-전공선택-546E7A)
+![Target](https://img.shields.io/badge/Target-2학년-9E9E9E)
+![Theme](https://img.shields.io/badge/Theme-AI%20Governance-00897B)
+
+> 일부 교육 자료는 연구 출판 및 데이터 보호 정책에 따라 제한적으로 제공됩니다.  
+> Some teaching materials are restricted due to publication plans and data protection policies.
+
+- **강의 목표 · Goal**  
+  인공지능의 기초 개념과 경영 적용 가능성을 이해하고, AI 활용의 윤리적·조직적 쟁점을 판단한다.  
+  Understanding AI foundations, management applications, and ethical and organizational issues in AI adoption
+
+- **주요 내용 · Topics**  
+  AI 기초 이론, 예측 AI, 생성 AI, AI 거버넌스, 책임 있는 AI 활용  
+  AI foundations, predictive AI, generative AI, AI governance, responsible AI use
+
+- **실습 도구 · Tools**  
+  가설 개발 템플릿, 시나리오 기반 시뮬레이션 도구, AI tools
+
+---
+
+### General Education · 기초 선택 / 교양
+
+#### 파이썬프로그래밍 · Python Programming
+
+![Course Type](https://img.shields.io/badge/Type-기초선택-546E7A)
+![Target](https://img.shields.io/badge/Target-1학년-9E9E9E)
+![Theme](https://img.shields.io/badge/Theme-Programming%20Basics-00897B)
+
+- **강의 목표 · Goal**  
+  파이썬 프로그래밍 기초 이해 및 실습  
+  Understanding basic Python programming through hands-on exercises
+
+- **주요 내용 · Topics**  
+  변수, 조건문, 반복문, 함수, 데이터 처리 기초  
+  Variables, conditionals, loops, functions, basic data handling
+
+- **실습 도구 · Tools**  
+  Python, notebooks, blended learning materials
 
 ---
 
@@ -105,14 +207,21 @@ root/
 │   ├── Lecture_Notes/
 │   ├── Student_Projects/
 │   └── Resources/
-├── 02_AXDXServiceDesign_Prototype/
+├── 02_[EH]AXDXServiceDesign&Prototype/
 │   ├── Syllabus/
 │   ├── Lecture_Notes/
 │   ├── Student_Projects/
 │   └── Design_Resources/
 ├── 03_ManagementInformationSystem/
-├── 04_AI_Management/
-├── 05_PythonProgramming/
+│   ├── Syllabus/
+│   ├── Lecture_Notes/
+│   ├── Student_Projects/
+│   └── Case_Templates/
+├── 05_AI&Management/
+│   ├── Syllabus/
+│   ├── Lecture_Notes/
+│   ├── Student_Projects/
+│   └── Scenario_Tools/
 ├── 99_Shared_Resources/
 │   ├── Templates/
 │   ├── Guidelines/
@@ -183,19 +292,25 @@ git push origin coursename-weekXX-studentname
 
 ## 9. Academic Integrity · 학습 윤리
 
-> AI tools may assist your work, but they must not replace your thinking.  
-> AI 도구는 학습을 도울 수 있지만, 사고를 대체해서는 안 됩니다.
+> **AI tools may assist your work, but they must not replace your thinking.**  
+> **AI 도구는 학습을 도울 수 있지만, 사고를 대체해서는 안 됩니다.**
 
 ### Required Practice · 필수 원칙
 
 - Cite sources and references clearly.  
   출처와 참고자료를 명확히 밝힙니다.
+
 - Record the reasoning process behind AI-assisted outputs.  
   AI 활용 산출물의 사고 과정을 기록합니다.
+
 - Do not submit copied code, copied reports, or AI outputs without review.  
   검토 없는 복사 코드, 보고서, AI 산출물 제출을 금지합니다.
+
 - Projects must be connected to real or plausible industrial problems.  
   모든 프로젝트는 실제 또는 현실성 있는 산업 문제와 연결되어야 합니다.
+
+- Make accountability explicit.  
+  AI가 만든 결과의 책임, 검토자, 사용 조건을 명확히 기록합니다.
 
 ---
 
@@ -217,71 +332,13 @@ For course-related questions, please use the relevant course folder or GitHub Is
 
 <div align="center">
 
-### Build questions that AI cannot simply answer.  
-### AI가 쉽게 답할 수 없는 질문을 만듭니다.
-
 <img src="https://img.shields.io/badge/Updated-2026-546E7A?style=flat-square" />
 <img src="https://img.shields.io/badge/Theme-Grayscale%20%2B%20Teal%20Green-00897B?style=flat-square" />
+<img src="https://img.shields.io/badge/AXID-Teaching%20Archive-00897B?style=flat-square" />
+
+<br/><br/>
+
+**Build questions that AI cannot simply answer.**  
+**AI가 쉽게 답할 수 없는 질문을 만듭니다.**
 
 </div>
-
-## 📖 개설 강의 (Course List)
-
-### 🎯 전공 필수 과목
-
-#### 📊 [시스템분석설계 (System Analysis and Design)](01_SystemAnalysisDesign/)
-
-![Course Type](https://img.shields.io/badge/Type-전공필수-darkgray)
-![Target](https://img.shields.io/badge/Target-3학년-gray)
-
-- **강의 목표**: SDLC 이해 및 UML을 활용한 시스템 모델링
-- **주요 내용**: 요구사항 분석, 시스템 설계, 프로젝트 관리
-- **실습 도구**: StarUML, PlantUML, GitHub
-
-#### 🚀 [[EH] 창업아이디어설계를 위한 AX/DX 서비스 기획 (AX/DX Service Design & Prototype)](02_%5BEH%5DAXDXServiceDesign%26Prototype/)
-
-![Course Type](https://img.shields.io/badge/Type-전공필수-darkgray)
-![Target](https://img.shields.io/badge/Target-3_4학년-gray)
-
-> 본 과목은 프로토타입 제작을 통해 서비스 채택이 실패하는 조건을 반복 관찰하는 실험형 수업이다.
-> 비즈니스 모델을 설계하기보다 가설이 무효화되는 시장 조건을 검증하고 피봇 유형을 기록한다.
-- **강의 목표**: 디지털 전환 시대의 서비스 기획 및 사용자 경험 설계
-- **주요 내용**: 고객 여정 분석, 서비스 디자인, 프로토타이핑
-- **실습 도구**: Figma, LLM 기반 개발도구, 사용자 조사 방법론
-
-### 🎓 전공 선택 과목
-
-#### 📈 [경영정보시스템 (Management Information Systems)](03_ManagementInformationSystem/)
-
-![Course Type](https://img.shields.io/badge/Type-전공선택-darkgray)
-![Target](https://img.shields.io/badge/Target-4학년-gray)
-
-> 학생들은 기업 사례를 분석하는 것이 아니라 동일 형식의 시스템 실패 패턴을 구조화하여 축적한다.
-- **강의 목표**: 6가지 이론적 관점을 기반으로 경영정보시스템 사례 개발
-- **주요 내용**: MIS 핵심 이론과 사례
-- **실습 도구**: 사례개발도구 (자체제작 템플릿)
-
-#### 🏭 [인공지능 경영 (AI & Management)](05_AI&Management/)
-
-![Course Type](https://img.shields.io/badge/Type-전공선택-darkgray)
-![Target](https://img.shields.io/badge/Target-2학년-gray)
-
-> 일부 교육 자료는 연구 출판 및 데이터 보호 정책에 따라 제한적으로 제공됩니다.
-- **강의 목표**: 인공지능 경영
-- **주요 내용**: 인공지능 기초 이론과 경영과의 접목사례, 윤리 의식 함양
-- **실습 도구**: 가설 개발 및 시나리오 기반 시뮬레이션 도구 (자체제작)
-
-### 🎓 기초 선택(교양) 과목
-
-#### 🏭 파이썬프로그래밍 (Python Programming)
-
-![Course Type](https://img.shields.io/badge/Type-기초선택-darkgray)
-![Target](https://img.shields.io/badge/Target-1학년-gray)
-
-- **강의 목표**: 파이썬 프로그래밍 기초 
-- **주요 내용**: 파이썬 프로그래밍 기초 지식 함양 및 실습
-- **실습 도구**: 블렌디드 러닝 및 실습 (자체제작)
-
----
-
-최종 업데이트: 2026년 | AXID Lab & Tech University of Korea
