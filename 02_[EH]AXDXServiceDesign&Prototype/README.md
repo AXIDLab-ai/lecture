@@ -7,7 +7,7 @@
 ![Target](https://img.shields.io/badge/Target-4학년-555555?style=flat&logoColor=white)
 
 **[강의 로드맵 (Lecture Map) →](lectureMap.md)**
-- **본 강의는 AI 기술을 지렛대 삼아 실제 시장의 문제를 가장 빠르게 해결하고 데이터로 증명하는 사람을 양성하는 것이 목표입니다**
+
 - **AX(인공지능 전환) 기반 혁신 창업 아이디어의 구체화 및 제품화**
 - **교과목명**: 창업아이디어설계를 위한 AX/DX 서비스 기획
 - **담당 교수**: 강송희
