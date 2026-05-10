@@ -1,4 +1,6 @@
-# AXID Lab Lecture Archive  
+---
+layout: home
+---
 ### 강송희 교수 강의 아카이브
 
 ![AXID Lab](https://img.shields.io/badge/AXID-Lab-00897B?style=for-the-badge)
