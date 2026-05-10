@@ -1,5 +1,6 @@
 ---
 layout: home
+title: AXID Lab Lecture Archive
 ---
 ### 강송희 교수 강의 아카이브
 
