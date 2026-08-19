@@ -1,6 +1,31 @@
-title: Lecture
+title: AXID Lab Lecture Archive
+description: 한국공학대학교 AXID Lab 강의 아카이브
+lang: ko-KR
 url: "https://axidlab-ai.github.io"
 baseurl: "/lecture"
 theme: minima
+
+plugins:
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true
+
+# Markdown의 첫 번째 제목을 테마가 다시 출력하지 않도록 한다.
+titles_from_headings:
+  enabled: false
+  strip_title: false
+  collections: false
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
+
 exclude:
   - README.md
+  - index_backup.html
+  - copilot

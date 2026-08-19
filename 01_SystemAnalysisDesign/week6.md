@@ -1,6 +1,6 @@
---[← Week 5](./week5.md) | [목차](./lectureMap.md) | [다음: Week 8 →](./week8.md)--
+[← Week 5](./week5.md) · [목차](./lectureMap.md) · [다음: Week 8 →](./week8.md)
 
-Week 6: 시스템 요구사항 조사 📋
+# Week 6: 시스템 요구사항 조사 📋
 
 ---
 

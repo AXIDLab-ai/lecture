@@ -1,6 +1,6 @@
---[목차](./lectureMap.md) | [다음: Week 2 →](./week2.md)--
+[목차](./lectureMap.md) · [다음: Week 2 →](./week2.md)
 
-[강의 요약] 경영정보시스템(MIS) 1주차: 오리엔테이션 및 6렌즈 프레임워크
+# 경영정보시스템(MIS) 1주차: 오리엔테이션 및 6렌즈 프레임워크
 
 ## 0. 강의 개요 및 철학
 * **교과목명**: 경영정보시스템 (Management Information Systems)

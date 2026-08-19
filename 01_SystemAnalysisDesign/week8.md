@@ -1,6 +1,6 @@
---[← Week 6](./week6.md) | [목차](./lectureMap.md) | [다음: Week 9 →](./week9.md)--
+[← Week 6](./week6.md) · [목차](./lectureMap.md) · [다음: Week 9 →](./week9.md)
 
-Week 8: 시스템 요구사항 구조화 1 - 프로세스 모델링 🔄
+# Week 8: 시스템 요구사항 구조화 1 - 프로세스 모델링 🔄
 
 ---
 

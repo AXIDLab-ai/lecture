@@ -1,6 +1,6 @@
---[← Week 11](./week11.md) | [목차](./lectureMap.md) --
+[← Week 11](./week11.md) · [목차](./lectureMap.md)
 
-Week 13: 시스템 구현 및 운영 🚀
+# Week 13: 시스템 구현 및 운영 🚀
 
 ---
 

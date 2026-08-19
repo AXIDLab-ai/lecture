@@ -1,6 +1,6 @@
 [목차](./lectureMap.md) | [다음: Week 2 →](./week2.md)
 
-Week 1: 오리엔테이션, AX/DX 기초
+# Week 1: 오리엔테이션, AX/DX 기초
 ---
 
 ## 📌 학습 목표

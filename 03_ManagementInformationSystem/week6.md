@@ -1,6 +1,6 @@
---[← Week 5](./week5.md) | [목차](./lectureMap.md) | [다음: Week 7 →](./week7.md)--
+[← Week 5](./week5.md) · [목차](./lectureMap.md) · [다음: Week 7 →](./week7.md)
 
-[강의 요약] 경영정보시스템(MIS) 6주차: IT 거버넌스 (IT Governance)
+# 경영정보시스템(MIS) 6주차: IT 거버넌스 (IT Governance)
 
 ## 0. 리딩 메시지 (Core Insight)
 > [cite_start]"시스템이 아무리 뛰어나도 운영하는 규칙(Rule)이 무너지면 성과는 사라진다. IT 거버넌스는 올바른 의사결정 권한과 책임 구조를 통해 기술 투자가 비즈니스 가치로 연결되도록 보장하는 조직의 안전장치이다." [cite: 12725, 12861]

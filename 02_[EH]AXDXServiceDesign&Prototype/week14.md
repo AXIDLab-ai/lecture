@@ -1,6 +1,6 @@
 [← 이전: Week 13](./week13.md) | [목차](./lectureMap.md)
 
-Week 14: Prototyping
+# Week 14: Prototyping
 
 ---
 

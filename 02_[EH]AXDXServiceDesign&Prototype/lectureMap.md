@@ -1,207 +1,52 @@
-> 🚀 AI/DX 혁신을 통한 실전 서비스 기획 역량 함양
+# AX/DX 서비스 기획 강의 로드맵
 
----
+[← 강의 홈](./README.md)
 
-## 📚 강의 개요
+> 서비스 아이디어를 설명하는 데서 멈추지 않고, 검증 가능한 요구사항과 동작하는 프로토타입으로 전환합니다.
 
-이 강의는 **AX(AI Transformation)**과 **DX(Digital Transformation)**를 활용한 창업 아이디어 설계 및 서비스 기획 능력을 배양하는 과정입니다.
+## 1–4주 · 서비스 기획 기초
 
-### 🎯 학습 목표
+| 주차 | 주제 | 핵심 활동 | 자료 |
+|---|---|---|---|
+| 1주 | AX/DX 기초와 팀 구성 | AX·DX 개념, RACI, 프로젝트 방향 설정 | [강의노트](./week1.md) |
+| 2주 | 프로젝트 캔버스 | 문제·고객·가치·지표 정의 | [강의노트](./week2.md) |
+| 3주 | 서비스 분석과 요건 정의 | As-Is/To-Be, 원인 분석, 사용자 요구 | [강의노트](./week3.md) |
+| 4주 | BMC와 시장 검증 | BMC, 가치제안, TAM/SAM/SOM | [강의노트](./week4.md) |
 
-- AX/DX 개념 이해 및 산업별 적용 사례 분석
-- 프로젝트 캔버스 및 BMC(Business Model Canvas) 작성
-- 사용자 중심 서비스 설계 및 요구사항 정의
-- AI 도구(Claude, Cursor)를 활용한 프로토타입 개발
-- End-to-End 서비스 기획 프로세스 경험
+## 5–10주 · 현장 연계와 중간 검증
 
-### 🎓 기대 성과
+현장 전문가 사례, 팀별 서비스 구체화, 중간 공유와 현장 관찰을 통해 초기 가정을 점검합니다. 외부 강연과 현장 자료는 공개 범위에 따라 별도 제공됩니다.
 
-✅ 실전 프로젝트 기획 역량  
-✅ AI 기반 서비스 설계 능력  
-✅ 프로토타입 개발 및 검증 스킬  
-✅ 팀 협업 및 커뮤니케이션 역량  
+## 11–14주 · 바이브코딩 워크숍
 
----
+| 주차 | 질문 | 핵심 산출물 | 2026 워크숍 |
+|---|---|---|---|
+| 11주 | 무엇을 만들기 전에 무엇을 검증할 것인가? | 문제정의, 사용자 여정, PRD, 인수조건 | [Week 01](./week01.md) |
+| 12주 | UI를 사용자 행동으로 어떻게 정의할 것인가? | 화면 명세, 컴포넌트 테스트, 접근성 기준 | [Week 02](./week02.md) |
+| 13주 | 기능을 데이터와 KPI로 어떻게 검증할 것인가? | 데이터 모델, API 계약, 이벤트·KPI | [Week 03](./week03.md) |
+| 14주 | 프로토타입을 어떻게 배포하고 실험할 것인가? | 디버그 로그, 회귀 테스트, 배포 URL, 실험계획 | [Week 04](./week04.md) |
 
-## 📖 주차별 강의 내용
+### 기존 설계 참고자료
 
-### 🗓️ 커리큘럼 로드맵
+개념과 설계 원칙을 더 깊게 볼 때 다음 기존 노트를 함께 사용합니다.
 
-| 주차          | 주제                                | 핵심 활동                                               | 파일 링크                       |
-| ----------- | --------------------------------- | --------------------------------------------------- | --------------------------- |
-| **Week 1**  | 오리엔테이션 & AX/DX 기초                 | DX/AX 개념, 팀 구성, RACI                                | [📄 week1.md](./week1.md)   |
-| **Week 2**  | 프로젝트 캔버스                          | 캔버스 작성, SMART 목표                                    | [📄 week2.md](./week2.md)   |
-| **Week 3**  | 서비스 분석 설계 & 요건 정의                 | 문제 정의, As-Is/To-Be, SRS                             | [📄 week3.md](./week3.md)   |
-| **Week 4**  | BMC & 시장 예측                       | BMC 9블록, TAM/SAM/SOM                                | [📄 week4.md](./week4.md)   |
-| **Week 11** | 문제를 코드로 만들기 전에 테스트 가능한 요구사항으로 바꾸기 | 문제정의 → Journey → PRD → Acceptance Criteria → 테스트 설계 | [📄 week01.md](./week01.md) |
-| **Week 12** | UI를 만들기 전에 테스트로 사용자 행동을 정의하기      | Generative UI + 컴포넌트 TDD                            | [📄 week02.md](./week02.md) |
-| **Week 13** | 데이터와 KPI를 테스트로 검증 가능한 형태로 설계하기    | 데이터 + API + KPI + TDD                               | [📄 week03.md](./week03.md) |
-| **Week 14** | 작동하는 프로토타입을 배포하고 실험 가능한 서비스로 완성하기 | 디버깅 + 배포 + 실험 설계                                    | [📄 week04.md](./week04.md) |
+- [11주 · Conceptual Design](./week11.md)
+- [12주 · Detailed Design](./week12.md)
+- [13주 · UI/UX Design & Implementation](./week13.md)
+- [14주 · Prototyping](./week14.md)
 
----
+## 실습 가이드
 
-## 🚀 빠른 시작
+- [프로젝트 실습 가이드](./projectGuide.md): BMC, 가설, 실패 조건, 사용자 실험과 피벗 기준
+- [프로젝트 예시](./projectSample.md): 산출물의 구조를 확인하는 참고 예시
+- [바이브코딩 실제 순서](./vibe_coding_actual_sequence.md): React/Vite 기반 구현 전체 흐름
+- [화면 목업 포함 버전](./vibe_coding_actual_sequence_with_mockups.md): 화면 명세를 기준 문서로 추가한 확장판
 
-### 1. 저장소 클론
-```bash
-git clone <your-repo-url>
-cd AXDX_ServicePlanning
-```
+## 최종 산출물
 
-### 2. 학습 순서
-1. 📋 [전체 강의 맵](./lectureMap.md) 먼저 읽기
-2. 🔢 주차 순서대로 학습 (Week 1 → Week 2 → ...)
-3. ✅ 각 주차별 체크리스트 완료
-4. 🛠️ 실습 과제 수행
-
-### 3. 팀 프로젝트 가이드
-- **팀 구성**: 3-5명 (PM, Designer, Developer, QA)
-- **도구 준비**: Figma, Claude, Cursor/GitHub Copilot
-- **산출물**: 프로젝트 캔버스 → BMC → 프로토타입
-
----
-
-## 🛠️ 주요 도구 및 리소스
-
-### 필수 도구
-- **[Figma](https://figma.com)**: UI/UX 디자인 및 프로토타이핑
-- **[Claude](https://claude.ai)**: AI 어시스턴트 (문서 작성, 아이디어 생성)
-- **[Cursor](https://cursor.sh)**: AI 기반 코드 에디터
-
-### 협업 도구
-- **Git/GitHub**: 버전 관리 및 협업
-- **Slack/Discord**: 팀 커뮤니케이션
-- **Miro/FigJam**: 아이디어 브레인스토밍
-- **Notion**: 프로젝트 문서화
-
-### 참고 자료
-- **도서**: "Business Model Generation", "The Lean Startup"
-- **웹사이트**: Strategyzer.com, Nielsen Norman Group
-- **커뮤니티**: Product Hunt, Indie Hackers
-
----
-## 🎯 프로젝트 예시
-
-본 강의에서 다루는 주요 프로젝트 사례:
-
-### 1. AI 챗봇 고객센터
-- **문제**: 상담 대기 시간 15분, 단순 질문 70%
-- **솔루션**: 24/7 AI 챗봇, 자동 응답 80%
-- **결과**: 응답 시간 1분, 상담 비용 40% 절감
-
-### 2. SaaS 프로젝트 관리 도구
-- **타겟**: 스타트업 PM (20-40대)
-- **가치**: 프로젝트 정보 통합, 자동 리포트
-- **지표**: MAU 10,000, LTV:CAC 3:1
-
-### 3. 새벽 배송 온라인 쇼핑몰
-- **문제**: 직장인 쇼핑 시간 부족
-- **솔루션**: 24시간 주문, 12시간 내 배송
-- **시장**: TAM $2.1B → SAM $126M → SOM $1.26M
-
-
-## 🎯 최종 텀 프로젝트 가이드
-
- * [projectGuide](./projectGuide.md)와 [projectSample](./projectSample.md) 참조
----
-
-## 📁 문서 구조
-
-```
-AXDX_ServicePlanning/
-├── README.md           # 전체 강의 소개 (현재 파일)
-├── lectureMap.md       # 강의 맵 및 개요
-├── week01.md          # Week 1: 오리엔테이션 & AX/DX 기초
-├── week02.md          # Week 2: 프로젝트 캔버스
-├── week03.md          # Week 3: 서비스 분석 설계
-├── week04.md          # Week 4: BMC & 시장 예측
-├── week11.md          # Week 11: Conceptual Design
-├── week12.md          # Week 12: Detailed Design
-├── week13.md          # Week 13: UI/UX Design
-├── week14.md          # Week 14: Prototyping
-└── assets/            # 이미지 및 첨부 파일
-    ├── images/
-    ├── templates/
-    └── examples/
-```
-
----
-
-## 🔧 설정 및 활용 팁
-
-### VS Code 확장프로그램 추천
-- **Markdown All in One**: 미리보기 및 단축키
-- **Markdown Preview Enhanced**: 고급 미리보기
-- **markdownlint**: 문법 체크
-
-### GitHub에서 보기 좋게 하는 방법
-
-```markdown
-<!-- 목차 자동 생성 -->
-- [Week 1](#week-1-오리엔테이션--axdx-기초)
-- [Week 2](#week-2-프로젝트-캔버스)
-
-<!-- 표 정렬 -->
-| 항목 | 설명 |
-|------|------|
-| AX | AI Transformation |
-| DX | Digital Transformation |
-
-<!-- 이미지 크기 조절 -->
-<img src="./assets/images/example.png" width="600" alt="설명">
-
-<!-- 코드 블록 언어 지정 -->
-```json
-{
-  "status": "success",
-  "data": {}
-}
-```
----
-
-## 📞 지원 및 문의
-
-### 질문하기
-- **GitHub Issues**: 기술적 질문 및 개선 제안
-- **Discussions**: 학습 경험 공유 및 토론
-
-### 기여하기
-1. Fork this repository
-2. Create feature branch (`git checkout -b feature/amazing-content`)
-3. Commit changes (`git commit -am 'Add amazing content'`)
-4. Push to branch (`git push origin feature/amazing-content`)
-5. Create Pull Request
-
----
-
-## 📜 라이선스
-
-이 강의 자료는 **MIT** 라이선스를 따릅니다.
-
-- ✅ 출처 표시하면 자유롭게 사용 가능
-- ✅ 수정 및 배포 가능
-- ❌ 상업적 목적 사용 금지
-
----
-
-## 📈 업데이트 이력
-
-| 날짜 | 버전 | 변경 사항 |
-|------|------|-----------|
-| 2026-02-14 | v1.0 | 전체 강의 노트 최초 작성 |
-
----
-
-## 🌟 Star History
-
-이 자료가 도움이 되셨다면 ⭐ Star를 눌러주세요!
-
----
-
-**Last Updated**: 2026-02-14  
-**Course**: 창업 아이디어 설계를 위한 AX/DX 서비스 기획  
-**Instructor**: 강송희 교수
-
----
-
-🎉 **행운을 빕니다! 성공적인 창업을 위한 여정을 시작하세요!**
+1. 문제정의와 핵심 가설
+2. PRD 및 테스트 가능한 인수조건
+3. 화면·데이터·API·이벤트 명세
+4. 테스트를 통과한 프로토타입과 배포 URL
+5. 사용자 실험 결과, KPI 해석, 피벗 또는 유지 결정
+6. AI 활용 내역과 비판적 검토 기록

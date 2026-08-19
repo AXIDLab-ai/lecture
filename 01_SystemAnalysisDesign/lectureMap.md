@@ -1,4 +1,6 @@
-시스템 분석 및 설계 (Systems Analysis & Design)
+# 시스템분석설계 강의 로드맵
+
+[← 강의 홈](./README.md)
 
 ## 📋 과목 개요
 
@@ -168,5 +170,5 @@
 
 ---
 
-**© 2024-2025 한국공학대학교 경영학부 | All Rights Reserved**
+**© 2025-2026 한국공학대학교 경영학부 | All Rights Reserved**
 *본 강의자료는 교육 목적으로만 사용 가능합니다. (Educational/Non-commercial CC BY-NC)*

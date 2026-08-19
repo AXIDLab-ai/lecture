@@ -1,162 +1,44 @@
-> 🚀 6렌즈 프레임워크와 AX(AI Transformation)를 통한 지속가능한 디지털 경쟁우위 확보
+# 경영정보시스템 강의 로드맵
 
----
+[← 강의 홈](./README.md)
 
-## 📚 강의 개요
+> 전략, 사회기술, 데이터, 프로세스, 거버넌스, 경쟁우위의 6-Lens로 정보시스템을 진단합니다.
 
-이 강의는 현대 기업의 필수 역량인 **경영정보시스템(MIS)**을 6가지 핵심 렌즈(전략, 사회기술, 데이터, 프로세스, 거버넌스, 경쟁우위)를 통해 분석하고, 인공지능 전환(AX) 시대의 전략적 의사결정 능력을 배양하는 과정입니다.
+## 주차별 강의
 
-### 🎯 학습 목표
+| 주차 | 주제 | 핵심 개념 | 자료 |
+|---|---|---|---|
+| 1주 | 오리엔테이션과 6-Lens | 시스템 사고, 분석 프레임, 연구·수업 윤리 | [강의노트](./week1.md) |
+| 2주 | 전략–IT 정렬 | SAM, 전략 분해, 정렬 성숙도 | [강의노트](./week2.md) |
+| 3주 | 사회기술시스템 | 공동 최적화, 사람·구조·기술·프로세스 | [강의노트](./week3.md) |
+| 4주 | 데이터와 의사결정 | DIKW, 정보 품질, KPI | [강의노트](./week4.md) |
+| 5주 | 프로세스와 통합 | BPM, E2E, ERP·SCM·CRM, SSOT | [강의노트](./week5.md) |
+| 6주 | IT 거버넌스 | 의사결정권, RACI, ROI·TCO, 리스크 | [강의노트](./week6.md) |
+| 7주 | 디지털 경쟁우위 | 플랫폼, 네트워크 효과, 전환비용 | [강의노트](./week7.md) |
+| 8주 | 중간 학습 점검 | 1–7주 핵심 개념 통합 | [문제은행](./midtermQbank.md) |
+| 9주 | 비즈니스 역량과 EA | Capability Map, EA 4개 도메인 | [강의노트](./week9.md) |
+| 10주 | EA 이행과 전환 | Build vs Buy, 마이그레이션, 로드맵 | [강의노트](./week10.md) |
+| 11주 | 데이터 거버넌스 | 품질, 메타데이터, 소유권, 보안 | [강의노트](./week11.md) |
+| 12주 | 통합과 운영 | API, SLA, 운영 KPI, 서비스 관리 | [강의노트](./week12.md) |
+| 13주 | 개발 생태계와 클라우드 | 클라우드 서비스, DevOps, MSA | [강의노트](./week13.md) |
+| 14주 | AX와 미래 비즈니스 | 생성형 AI, 데이터 리터러시, 평가와 감사 | [강의노트](./week14.md) |
 
-- 6렌즈 프레임워크 기반의 전사적 시스템 분석 역량 함양
-- 비즈니스 전략과 IT 인프라의 정렬(Alignment) 원리 습득
-- EA(Enterprise Architecture)와 데이터 거버넌스 체계 이해
-- 플랫폼 경제학과 네트워크 효과를 통한 경쟁우위 창출 전략 수립
-- AX(AI Transformation) 시대의 데이터 리터러시 및 윤리적 리더십 확보
+## 사례개발 프로젝트
 
-### 🎓 기대 성과
+프로젝트는 기업을 소개하는 보고서가 아니라, 비즈니스 시스템의 **성공·실패 경계조건**을 구조화하는 작업입니다.
 
-✅ 6렌즈 기반 기업 정보시스템 진단 역량  
-✅ 데이터 기반 의사결정 및 KPI 설계 능력  
-✅ EA 이행 로드맵 및 거버넌스 구축 스킬  
-✅ AX 비즈니스 모델 기획 및 평가 역량  
+1. 사례의 시스템 경계와 이해관계자를 정의합니다.
+2. 6-Lens로 현재 상태와 인과관계를 진단합니다.
+3. 성공 조건과 실패 조건을 비교 가능한 형태로 기록합니다.
+4. 데이터, 프로세스, 거버넌스 개입안을 설계합니다.
+5. 결과를 검증할 KPI와 위험 신호를 제안합니다.
 
----
+- [사례개발 실습 가이드](./caseStudyGuide.md)
+- [사례개발 예시와 평가 루브릭](./caseStudySample.md)
 
-## 📖 주차별 강의 내용
+## 학습 성과
 
-### 🗓️ 커리큘럼 로드맵 (14 Weeks)
-
-| 주차          | 주제                   | 핵심 내용 (6 Lenses)            | 파일 링크                                                            |
-| ----------- | -------------------- | --------------------------- | ---------------------------------------------------------------- |
-| **Week 1**  | 오리엔테이션               | 과목 개요 및 연구 윤리 가이드           | [📄 week1.md](./week1.md)                                        |
-| **Week 2**  | 전략-IT 정렬             | SAM 모델, Zara 케이스, 전략 분해     | [📄 week2.md](./week2.md)                                        |
-| **Week 3**  | 사회기술시스템(STS)         | 사람-구조-기술-프로세스 최적화           | [📄 week3.md](./week3.md)                                        |
-| **Week 4**  | 데이터와 의사결정            | DIKW 계층, IQ 6차원, KPI 설계     | [📄 week4.md](./week4.md)                                        |
-| **Week 5**  | 프로세스 관점 & 통합         | BPM, ERP/SCM/CRM, SSOT 원칙   | [📄 week5.md](./week5.md)                                        |
-| **Week 6**  | IT 거버넌스 & 투자성과       | RACI 모델, ROI/TCO 분석, BSC    | [📄 week6.md](./week6.md)                                        |
-| **Week 7**  | 디지털 경쟁우위             | 플랫폼, 네트워크 효과, 전환비용          | [📄 week7.md](./week7.md)                                        |
-| **Week 8**  | **Mid-term Exam** | **중간 시험**      |[📄 midtermQbank.md](./midtermQbank.md)                                                               |
-| **Week 9**  | 역량 매핑 & EA 기초        | Capability Map, EA 4레이어 구조  | [📄 week9.md](./week9.md)                                        |
-| **Week 10** | EA 이행 & 전환 관리        | Build vs Buy, 마이그레이션 전략     | [📄 week10.md](lecture/03_ManagementInformationSystem/week10.md) |
-| **Week 11** | 데이터 거버넌스             | 품질 관리, 메타데이터, 보안(CIA)       | [📄 week11.md](lecture/03_ManagementInformationSystem/week11.md) |
-| **Week 12** | 통합 및 운영 관리           | API 경제, SLA 관리, 운영 KPI      | [📄 week12.md](lecture/03_ManagementInformationSystem/week12.md) |
-| **Week 13** | 개발 생태계 & 클라우드        | IaaS/PaaS/SaaS, DevOps, MSA | [📄 week13.md](lecture/03_ManagementInformationSystem/week13.md) |
-| **Week 14** | AX와 미래 비즈니스          | 생성형 AI, 데이터 리터러시, 평가/감사     | [📄 week14.md](lecture/03_ManagementInformationSystem/week14.md) |
-
----
-
-## 🚀 학습 및 프로젝트 가이드
-
-### 1. 학습 순서
-1. 📋 [전체 강의 맵](./lectureMap.md)을 통해 주차별 핵심 키워드 파악
-2. 🔢 프레임워크 확장 순서대로 학습 (전략 → 데이터 → 거버넌스)
-3. 🛠️ 각 주차별 제공된 **진단 체크리스트**를 실제 사례에 적용
-
-### 2. 팀 프로젝트 (Final Term)
-- **주제**: 특정 기업의 디지털 전환(DX/AX) 현황 분석 및 미래 전략 제안
-- **방법**: 6렌즈 프레임워크 + EA 성숙도 진단표 활용
-- **산출물**: [caseStudyGuide](./caseStudyGuide.md)와 [caseStudySample](./caseStudySample.md)에 따른 발표자료
-
----
-
-## 🛠️ 주요 프레임워크 및 도구
-
-### 분석 프레임워크
-- **6-Lens Model**: 전략, 사회기술, 데이터, 프로세스, 거버넌스, 경쟁우위
-- **EA Domain**: BA(비즈니스), DA(데이터), AA(앱), TA(기술)
-- **SAM Model**: Strategic Alignment Maturity Model
-
-### 권장 도구
-- **Obsidian**: 강의 노트 관리 및 지식 그래프 구축
-- **Miro**: Capability Mapping 및 프로세스 모델링 시각화
-- **ChatGPT/Claude**: 사례 분석 보조 및 리서치
-
----
-
-## 📊 학습량 및 산출물 요약
-
-| 구분 | 주요 학습 내용 | 핵심 산출물 |
-|------|----------------|-------------|
-| **기초 (1-7주)** | 6렌즈 프레임워크 이해 | 기업 6렌즈 진단 보고서 |
-| **심화 (9-12주)** | EA 및 거버넌스 실무 | Capability Map & 품질 지표 |
-| **확장 (13-14주)** | 클라우드 및 AX 전략 | AX 비즈니스 전환 로드맵 |
-
----
-
- ## 📊 설정 및 활용 팁
-
-### VS Code 확장프로그램 추천
-- **Markdown All in One**: 미리보기 및 단축키
-- **Markdown Preview Enhanced**: 고급 미리보기
-- **markdownlint**: 문법 체크
-
-### GitHub에서 보기 좋게 하는 방법
-
-```markdown
-<!-- 목차 자동 생성 -->
-- [Week 1](#week-1-오리엔테이션--axdx-기초)
-- [Week 2](#week-2-프로젝트-캔버스)
-
-<!-- 표 정렬 -->
-| 항목 | 설명 |
-|------|------|
-| AX | AI Transformation |
-| DX | Digital Transformation |
-
-<!-- 이미지 크기 조절 -->
-<img src="./assets/images/example.png" width="600" alt="설명">
-
-<!-- 코드 블록 언어 지정 -->
-```json
-{
-  "status": "success",
-  "data": {}
-}
-```
-
-
----
-
-## 📞 지원 및 문의
-
-### 질문하기
-- **GitHub Issues**: 기술적 질문 및 개선 제안
-- **Discussions**: 학습 경험 공유 및 토론
-
-### 기여하기
-1. Fork this repository
-2. Create feature branch (`git checkout -b feature/amazing-content`)
-3. Commit changes (`git commit -am 'Add amazing content'`)
-4. Push to branch (`git push origin feature/amazing-content`)
-5. Create Pull Request
-
----
-
-## 📜 라이선스
-
-이 강의 자료는 **MIT** 라이선스를 따릅니다.
-
-- ✅ 출처 표시하면 자유롭게 사용 가능
-- ✅ 수정 및 배포 가능
-- ❌ 상업적 목적 사용 금지
-
----
-
-## 📈 업데이트 이력
-
-| 날짜         | 버전   | 변경 사항          |
-| ---------- | ---- | -------------- |
-| 2026-02-15 | v1.0 | 전체 강의 노트 최초 작성 |
-
----
-
-## 🌟 Star History
-
-이 자료가 도움이 되셨다면 ⭐ Star를 눌러주세요!
-
----
-
-**Last Updated**: 2026-02-15  
-**Course**: 경영정보시스템  
-**Instructor**: 강송희 교수  
+- 전략과 IT의 정렬을 근거 기반으로 설명합니다.
+- 데이터와 프로세스를 조직 역할·거버넌스와 연결합니다.
+- EA와 플랫폼 관점에서 변화 로드맵을 설계합니다.
+- AI 도입의 가치뿐 아니라 실패 가능성과 책임 구조를 평가합니다.

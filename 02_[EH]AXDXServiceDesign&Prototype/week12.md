@@ -1,6 +1,6 @@
 [← 이전: Week 11](./week11.md) | [목차](./lectureMap.md) | [다음: Week 13 →](./week13.md)
 
-Week 12: Detailed Design
+# Week 12: Detailed Design
 
 ---
 
