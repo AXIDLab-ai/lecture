@@ -1,4 +1,4 @@
-[← Week 9](./week9.md) · [목차](./lectureMap.md) · [다음: Week 11 →](./week11.md)
+[← Week 9](./week9.html) · [목차](./lectureMap.html) · [다음: Week 11 →](./week11.html)
 
 # 경영정보시스템(MIS) 10주차: EA 이행 및 거버넌스
 

@@ -4,14 +4,14 @@
 
 정보시스템을 단순한 기술 도입이 아니라 조직 성과를 만드는 사회기술 시스템으로 분석합니다. 전략, 사람·구조, 데이터, 프로세스, 거버넌스, 경쟁우위의 6-Lens 프레임을 사용합니다.
 
-[강의 로드맵 보기 →](./lectureMap.md)
+[강의 로드맵 보기 →](./lectureMap.html)
 
 ## 빠른 링크
 
-- [주차별 강의 로드맵](./lectureMap.md)
-- [사례개발 실습 가이드](./caseStudyGuide.md)
-- [사례개발 예시와 루브릭](./caseStudySample.md)
-- [중간 학습 점검 문제](./midtermQbank.md)
+- [주차별 강의 로드맵](./lectureMap.html)
+- [사례개발 실습 가이드](./caseStudyGuide.html)
+- [사례개발 예시와 루브릭](./caseStudySample.html)
+- [중간 학습 점검 문제](./midtermQbank.html)
 
 ## 학습 목표
 

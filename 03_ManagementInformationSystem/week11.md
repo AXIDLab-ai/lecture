@@ -1,4 +1,4 @@
-[← Week 10](./week10.md) · [목차](./lectureMap.md) · [다음: Week 12 →](./week12.md)
+[← Week 10](./week10.html) · [목차](./lectureMap.html) · [다음: Week 12 →](./week12.html)
 
 # 경영정보시스템(MIS) 11주차: 데이터 거버넌스 및 품질 관리
 

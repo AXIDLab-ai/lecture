@@ -1,4 +1,4 @@
-[목차](./lectureMap.md) · [다음: Week 2 →](./week2.md)
+[목차](./lectureMap.html) · [다음: Week 2 →](./week2.html)
 
 # 경영정보시스템(MIS) 1주차: 오리엔테이션 및 6렌즈 프레임워크
 

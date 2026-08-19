@@ -1,4 +1,4 @@
-[← Week 3](./week3.md) · [목차](./lectureMap.md) · [다음: Week 5 →](./week5.md)
+[← Week 3](./week3.html) · [목차](./lectureMap.html) · [다음: Week 5 →](./week5.html)
 
 # 경영정보시스템(MIS) 4주차: 데이터·정보·의사결정
 

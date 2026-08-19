@@ -1,4 +1,4 @@
-[← Week 5](./week5.md) · [목차](./lectureMap.md) · [다음: Week 7 →](./week7.md)
+[← Week 5](./week5.html) · [목차](./lectureMap.html) · [다음: Week 7 →](./week7.html)
 
 # 경영정보시스템(MIS) 6주차: IT 거버넌스 (IT Governance)
 

@@ -1,4 +1,4 @@
-[← Week 12](./week12.md) · [목차](./lectureMap.md) · [다음: Week 14 →](./week14.md)
+[← Week 12](./week12.html) · [목차](./lectureMap.html) · [다음: Week 14 →](./week14.html)
 
 # 경영정보시스템(MIS) 13주차: 시스템 개발 생태계와 클라우드
 

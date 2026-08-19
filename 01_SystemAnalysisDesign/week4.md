@@ -1,4 +1,4 @@
-[← Week 3](./week3.md) · [목차](lectureMap.md) · [다음: Week 5 →](./week5.md)
+[← Week 3](./week3.html) · [목차](lectureMap.html) · [다음: Week 5 →](./week5.html)
 
 # Week 4: 프로젝트 관리 개론 🚀
 

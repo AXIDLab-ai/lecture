@@ -1,4 +1,4 @@
-[← Week 9](./week9.md) · [목차](./lectureMap.md) · [다음: Week 11 →](./week11.md)
+[← Week 9](./week9.html) · [목차](./lectureMap.html) · [다음: Week 11 →](./week11.html)
 
 # Week 10: 시스템 요구사항 구조화 3 - 저장소 통합설계 및 질의 🗄️
 

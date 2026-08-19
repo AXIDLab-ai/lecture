@@ -1,4 +1,4 @@
-[← Week 1](./week1.md) · [목차](./lectureMap.md) · [다음: Week 3 →](./week3.md)
+[← Week 1](./week1.html) · [목차](./lectureMap.html) · [다음: Week 3 →](./week3.html)
 
 # 경영정보시스템(MIS) 2주차: 전략-IT 정렬 (Strategic Alignment)
 

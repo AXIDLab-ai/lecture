@@ -1,4 +1,4 @@
-[← Week 10](./week10.md) · [목차](./lectureMap.md) · [다음 공개 노트: Week 13 →](./week13.md)
+[← Week 10](./week10.html) · [목차](./lectureMap.html) · [다음 공개 노트: Week 13 →](./week13.html)
 
 # Week 11: 데이터베이스 설계 - 최신 트렌드 🚀
 

@@ -1,4 +1,4 @@
-[← Week 11](./week11.md) · [목차](./lectureMap.md) · [다음: Week 13 →](./week13.md)
+[← Week 11](./week11.html) · [목차](./lectureMap.html) · [다음: Week 13 →](./week13.html)
 
 # 경영정보시스템(MIS) 12주차: 통합 및 운영 관리
 

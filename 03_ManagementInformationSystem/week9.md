@@ -1,4 +1,4 @@
-[← Week 7](./week7.md) · [목차](./lectureMap.md) · [다음: Week 10 →](./week10.md)
+[← Week 7](./week7.html) · [목차](./lectureMap.html) · [다음: Week 10 →](./week10.html)
 
 # 경영정보시스템(MIS) 9주차: 비즈니스 역량 및 EA
 

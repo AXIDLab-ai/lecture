@@ -1,4 +1,4 @@
-[← Week 4](./week4.md) · [목차](lectureMap.md) · [다음: Week 6 →](./week6.md)
+[← Week 4](./week4.html) · [목차](lectureMap.html) · [다음: Week 6 →](./week6.html)
 
 # Week 5: 시스템 계획 및 선정 📈
 

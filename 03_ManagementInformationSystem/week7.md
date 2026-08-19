@@ -1,4 +1,4 @@
-[← Week 6](./week6.md) · [목차](./lectureMap.md) · [다음: Week 9 →](./week9.md)
+[← Week 6](./week6.html) · [목차](./lectureMap.html) · [다음: Week 9 →](./week9.html)
 
 # 경영정보시스템(MIS) 7주차: 디지털 경쟁우위 (Digital Advantage)
 

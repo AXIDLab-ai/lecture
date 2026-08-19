@@ -1,4 +1,4 @@
-[← Week 8](./week8.md) · [목차](./lectureMap.md) · [다음: Week 10 →](./week10.md)
+[← Week 8](./week8.html) · [목차](./lectureMap.html) · [다음: Week 10 →](./week10.html)
 
 # Week 9: 시스템 요구사항 구조화 2 - 데이터 모델링 🗃️
 

@@ -1,4 +1,4 @@
-[← Week 13](./week13.md) · [목차](./lectureMap.md)
+[← Week 13](./week13.html) · [목차](./lectureMap.html)
 
 # 경영정보시스템(MIS) 14주차: AI 전환(AX)과 미래 비즈니스
 
