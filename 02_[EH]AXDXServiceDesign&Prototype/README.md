@@ -1,8 +1,3 @@
----
-title: AX/DX 서비스 기획
-description: 서비스 기획에서 테스트·배포·실험까지 연결하는 2026-1 프로젝트형 강의 아카이브
----
-
 # 창업아이디어설계를 위한 AX/DX 서비스 기획
 
 **AX/DX Service Design & Prototype · 2026-1 아카이브**
