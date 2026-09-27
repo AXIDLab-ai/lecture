@@ -356,9 +356,21 @@
               "icon": "lucide-file",
               "title": "lectureMap"
             }
+          },
+          {
+            "id": "f0583398235ee872",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.7"
+            }
           }
         ],
-        "currentTab": 24
+        "currentTab": 25
       }
     ],
     "direction": "vertical"
@@ -378,7 +390,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -515,7 +529,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 814.5
+    "width": 392.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -531,7 +545,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "71a7f489c9b59973",
+  "active": "f0583398235ee872",
   "lastOpenFiles": [
     "02_[EH]AXDXServiceDesign&Prototype/week04.md",
     "02_[EH]AXDXServiceDesign&Prototype/week03.md",
