@@ -8,17 +8,17 @@
 
 | 운영 시기 | 강의 | 문서 |
 |---|---|---|
-| 2026-2 | 인공지능과경영 | [강의 홈](./05_AI%26Management/) |
-| 2026-1 | 창업아이디어설계를 위한 AX/DX 서비스 기획 | [강의 홈](./02_%5BEH%5DAXDXServiceDesign%26Prototype/) |
-| 2026-1 | 경영정보시스템 | [강의 홈](./03_ManagementInformationSystem/) |
-| 2025-2 | 시스템분석설계 | [강의 홈](./01_SystemAnalysisDesign/) |
+| 2026-2 | 인공지능과경영 | [강의 홈](./AIM/) |
+| 2026-1 | 창업아이디어설계를 위한 AX/DX 서비스 기획 | [강의 홈](./AXDXPrototyping/) |
+| 2026-1 | 경영정보시스템 | [강의 홈](./MIS/) |
+| 2025-2 | 시스템분석설계 | [강의 홈](./SAD/) |
 
 ## 저장소 구성
 
-- 01_SystemAnalysisDesign: 시스템분석설계 강의자료
-- 02_[EH]AXDXServiceDesign&Prototype: AX/DX 서비스 기획 강의자료
-- 03_ManagementInformationSystem: 경영정보시스템 강의자료
-- 05_AI&Management: 인공지능과경영 강의자료
+- SAD: 시스템분석설계 강의자료
+- AXDXPrototyping: AX/DX 서비스 기획 강의자료
+- MIS: 경영정보시스템 강의자료
+- AIM: 인공지능과경영 강의자료
 - _layouts 및 assets/css: GitHub Pages 공통 레이아웃과 반응형 스타일
 - _config.yml: Jekyll 및 링크 변환 설정
 - index.md: 공개 사이트 홈

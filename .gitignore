@@ -1,0 +1,5 @@
+# Copilot 플러그인 자격증명 백업 (API 키·라이선스 키 포함, 커밋 금지)
+.obsidian/plugins/copilot/data-v3-credentials-backup-*.json
+
+# Copilot 모델 카탈로그 캐시 (대용량 생성물)
+.copilot/

@@ -361,12 +361,14 @@
             "id": "f0583398235ee872",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.13.7"
+                "file": "index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.7"
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ],
@@ -521,15 +523,25 @@
               "type": "copilot-chat-view",
               "state": {},
               "icon": "message-square",
-              "title": "Copilot"
+              "title": "Copilot (Quick Chat)"
+            }
+          },
+          {
+            "id": "e32382548f5cfe88",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-agent-chat-view",
+              "state": {},
+              "icon": "copilot-agent",
+              "title": "Copilot Agent"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 392.5
+    "width": 688.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -542,47 +554,48 @@
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "quartz-syncer:Quartz Syncer publication center": false,
-      "copilot:Open Copilot Chat": false
+      "copilot:Open Copilot Chat": false,
+      "copilot:Open Copilot Agent Chat": false
     }
   },
-  "active": "f0583398235ee872",
+  "active": "e32382548f5cfe88",
   "lastOpenFiles": [
+    "copilot/copilot-conversations/agent__지금_이_폴더_전체에서_기존에_세부폴더명이_01_AIM처럼_@20261003_110713.md",
+    "copilot/skills/obsidian-cli/SKILL.md",
+    "copilot/skills/obsidian-cli/LICENSE",
+    "copilot/skills/obsidian-cli",
+    "copilot/skills/json-canvas/SKILL.md",
+    "copilot/skills/json-canvas/LICENSE",
+    "copilot/skills/json-canvas/references/EXAMPLES.md",
+    "copilot/skills/json-canvas/references",
+    "copilot/skills/json-canvas",
+    "copilot/skills/obsidian-bases/SKILL.md",
+    "copilot/skills/obsidian-bases/LICENSE",
+    "copilot/skills/obsidian-bases/references/EXAMPLES.md",
+    "copilot/skills/obsidian-bases/references/FUNCTIONS_REFERENCE.md",
+    "copilot/skills/obsidian-bases/references",
+    "copilot/skills/obsidian-bases",
+    "copilot/skills/obsidian-markdown/SKILL.md",
+    "copilot/skills/obsidian-markdown/LICENSE",
+    "copilot/skills/obsidian-markdown/references/PROPERTIES.md",
+    "copilot/skills/obsidian-markdown/references/EMBEDS.md",
+    "copilot/skills/obsidian-markdown/references/CALLOUTS.md",
+    "copilot/skills/obsidian-markdown/references",
+    "copilot/skills/openartifacts-publish/SKILL.md",
+    "copilot/skills/openartifacts-publish/themes/research-memo.md",
+    "copilot/skills/copilot-fetch-x/SKILL.md",
+    "copilot/skills/copilot-youtube-transcript/SKILL.md",
+    "copilot/copilot-conversations/자_코파일럿,_지금_여기서_링크들이_전부_깨졌으니까_현행화@20261003_110358.md",
+    "README.md",
+    "index.md",
     "02_[EH]AXDXServiceDesign&Prototype/week04.md",
     "02_[EH]AXDXServiceDesign&Prototype/week03.md",
     "02_[EH]AXDXServiceDesign&Prototype/week02.md",
     "02_[EH]AXDXServiceDesign&Prototype/week01.md",
-    "02_[EH]AXDXServiceDesign&Prototype/week04.md.crdownload",
-    "02_[EH]AXDXServiceDesign&Prototype/week03.md.crdownload",
-    "02_[EH]AXDXServiceDesign&Prototype/week02.md.crdownload",
-    "02_[EH]AXDXServiceDesign&Prototype/week01.md.crdownload",
     "axdx_vibe_tdd_course/docs/week4.md",
     "axdx_vibe_tdd_course/docs/week3.md",
     "axdx_vibe_tdd_course/docs/week2.md",
     "axdx_vibe_tdd_course/docs/week1.md",
-    "axdx_vibe_tdd_course/docs/week4.md.crdownload",
-    "axdx_vibe_tdd_course/docs/week3.md.crdownload",
-    "axdx_vibe_tdd_course/docs/gemini-code-1777571614334.md.crdownload",
-    "axdx_vibe_tdd_course/docs/gemini-code-1777571525234.md.crdownload",
-    "axdx_vibe_tdd_course/docs/gemini-code-1777571510461.md.crdownload",
-    "03_ManagementInformationSystem/midtermQbank.md",
-    "copilot/copilot-conversations/본_강의자료를_바탕으로,_이론-사례-실습의_강의_취지에_맞는@20260403_205239.md",
-    "README.md",
-    "05_AI&Management/README.md",
-    "04_PythonProgramming/lectureMap.md",
-    "03_ManagementInformationSystem/lectureMap.md",
-    "03_ManagementInformationSystem/caseStudyGuide.md",
-    "02_[EH]AXDXServiceDesign&Prototype/lectureMap.md",
-    "01_SystemAnalysisDesign/lectureMap.md",
-    "01_SystemAnalysisDesign/week1.md",
-    "01_SystemAnalysisDesign/README.md",
-    "03_ManagementInformationSystem/README.md",
-    "04_PythonProgramming/week3.md",
-    "04_PythonProgramming/week2.md",
-    "04_PythonProgramming/week1.md",
-    "04_PythonProgramming/week14.md",
-    "04_PythonProgramming/week13.md",
-    "04_PythonProgramming/week11.md",
-    "lecture/04_PythonProgramming",
     "lecture/01_SystemAnalysisDesign/week1_images/week1_1.png",
     "Untitled.canvas",
     "lecture/01_SystemAnalysisDesign/week1_images/week1_7.png",

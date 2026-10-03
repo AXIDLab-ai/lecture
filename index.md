@@ -18,16 +18,16 @@ description: AXID Lab의 강의 소개, 주차별 노트, 실습 가이드를 �
 
 | 운영 시기 | 강의 | 핵심 주제 | 바로가기 |
 |---|---|---|---|
-| **2026-2** | 인공지능과경영 | AI 리터러시, 예측·생성 AI, 에이전트, 윤리와 거버넌스 | [강의 홈](./05_AI%26Management/) |
-| **2026-1** | AX/DX 서비스 기획 | 서비스 기획, 프로토타이핑, 바이브코딩, 실험 설계 | [강의 홈](./02_%5BEH%5DAXDXServiceDesign%26Prototype/) |
-| **2026-1** | 경영정보시스템 | 6-Lens 분석, 데이터·프로세스·거버넌스, AX 전략 | [강의 홈](./03_ManagementInformationSystem/) |
-| **2025-2** | 시스템분석설계 | SDLC, 요구사항, 프로세스·데이터 모델링, 구현·운영 | [강의 홈](./01_SystemAnalysisDesign/) |
+| **2026-2** | 인공지능과경영 | AI 리터러시, 예측·생성 AI, 에이전트, 윤리와 거버넌스 | [강의 홈](./AIM/) |
+| **2026-1** | AX/DX 서비스 기획 | 서비스 기획, 프로토타이핑, 바이브코딩, 실험 설계 | [강의 홈](./AXDXPrototyping/) |
+| **2026-1** | 경영정보시스템 | 6-Lens 분석, 데이터·프로세스·거버넌스, AX 전략 | [강의 홈](./MIS/) |
+| **2025-2** | 시스템분석설계 | SDLC, 요구사항, 프로세스·데이터 모델링, 구현·운영 | [강의 홈](./SAD/) |
 
 ## 최근 현행화
 
 - **인공지능과경영 2026-2 커리큘럼**: 15주 강의 흐름과 AI-SBL·Moral Machine 기반 실습을 새로 공개했습니다.
 - **AX/DX 서비스 기획 워크숍**: 요구사항부터 테스트, 데이터·KPI, 배포·실험까지 이어지는 4주 실습을 정리했습니다.
-- **바이브코딩 실습 가이드**: [기본 순서](./02_%5BEH%5DAXDXServiceDesign%26Prototype/vibe_coding_actual_sequence.md)와 [화면 목업 포함 버전](./02_%5BEH%5DAXDXServiceDesign%26Prototype/vibe_coding_actual_sequence_with_mockups.md)을 추가했습니다.
+- **바이브코딩 실습 가이드**: [기본 순서](./AXDXPrototyping/vibe_coding_actual_sequence.md)와 [화면 목업 포함 버전](./AXDXPrototyping/vibe_coding_actual_sequence_with_mockups.md)을 추가했습니다.
 - **사이트 사용성**: 모든 문서에 공통 내비게이션, 반응형 표·코드 블록, 인쇄 스타일을 적용했습니다.
 
 _최종 현행화: 2026-08-19_
