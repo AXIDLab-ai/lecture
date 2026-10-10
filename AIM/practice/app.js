@@ -7,7 +7,7 @@
     'loading-panel','setup-panel','question-panel','result-panel','start-button','resume-button',
     'week-filter','generate-button','question-meta','question-heading','progress-copy','progress-fill',
     'answer-form','choices','check-button','next-button','feedback','question-nav','score-value',
-    'score-message','retry-wrong-button','new-set-button','review-list'
+    'score-message','retry-wrong-button','download-log-button','new-set-button','review-list'
   ].map(id => [id, document.getElementById(id)]));
 
   function shuffle(items) {
@@ -134,6 +134,46 @@
     renderQuestion();
   }
 
+  function csvCell(value) {
+    return `"${String(value ?? '').replace(/\r?\n/g, ' ').replace(/"/g, '""')}"`;
+  }
+
+  function localDateTime(value) {
+    return new Intl.DateTimeFormat('ko-KR', {
+      year: 'numeric', month: '2-digit', day: '2-digit',
+      hour: '2-digit', minute: '2-digit', second: '2-digit', hour12: false
+    }).format(new Date(value));
+  }
+
+  function downloadLearningLog() {
+    if (!state.session) return;
+    const downloadedAt = Date.now();
+    const headers = [
+      '세트 생성 시각', 'CSV 생성 시각', '문항 순서', '문항 ID', '주차', '대영역', '세부 주제',
+      '문항 유형', '난이도', '문제', '선택 번호', '선택 내용', '정답 번호', '정답 내용', '채점 결과', '해설'
+    ];
+    const rows = sessionQuestions().map((q, index) => {
+      const selected = Number(state.session.answers[q.id] || 0);
+      const checked = Boolean(state.session.checked[q.id]);
+      const result = !checked ? '미응답' : selected === q.answer ? '정답' : '오답';
+      return [
+        localDateTime(state.session.createdAt), localDateTime(downloadedAt), index + 1, q.id, q.week,
+        q.area, q.topic, q.type, q.difficulty, q.question, selected || '',
+        selected ? q.choices[selected - 1] : '', q.answer, q.choices[q.answer - 1], result, q.explanation
+      ];
+    });
+    const csv = `\uFEFF${[headers, ...rows].map(row => row.map(csvCell).join(',')).join('\r\n')}`;
+    const blobUrl = URL.createObjectURL(new Blob([csv], { type: 'text/csv;charset=utf-8' }));
+    const link = document.createElement('a');
+    const stamp = new Date(downloadedAt).toISOString().replace(/[-:]/g, '').replace('T', '_').slice(0, 15);
+    link.href = blobUrl;
+    link.download = `AIM_학습로그_${stamp}.csv`;
+    document.body.appendChild(link);
+    link.click();
+    link.remove();
+    window.setTimeout(() => URL.revokeObjectURL(blobUrl), 0);
+  }
+
   function escapeHtml(value) {
     return String(value).replace(/[&<>'"]/g, char => ({ '&':'&amp;', '<':'&lt;', '>':'&gt;', "'":'&#39;', '"':'&quot;' })[char]);
   }
@@ -164,6 +204,7 @@
   el['next-button'].addEventListener('click', nextQuestion);
   el['question-nav'].addEventListener('click', event => { const button = event.target.closest('button[data-index]'); if (button) { state.index = Number(button.dataset.index); renderQuestion(); } });
   el['retry-wrong-button'].addEventListener('click', retryWrong);
+  el['download-log-button'].addEventListener('click', downloadLearningLog);
   el['new-set-button'].addEventListener('click', () => { localStorage.removeItem(SESSION_KEY); show('setup-panel'); });
   init();
 })();
