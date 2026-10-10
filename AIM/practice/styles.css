@@ -42,6 +42,7 @@
 .primary-button:hover { background: var(--green-dark); }
 .secondary-button { background: #fff; color: var(--green-dark); border-color: var(--line); }
 .secondary-button:hover { background: var(--soft); }
+.secondary-button:disabled, .text-button:disabled { opacity: 0.45; cursor: not-allowed; }
 .quiz-hero .secondary-button { background: transparent; color: #fff; border-color: rgba(255,255,255,.45); }
 .quiz-shell button:focus-visible, .quiz-shell select:focus-visible, .choice:focus-within { outline: 3px solid rgba(20,122,75,.28); outline-offset: 2px; }
 
@@ -89,6 +90,13 @@
 .review-item { padding: 1rem; border: 1px solid var(--line); border-radius: 10px; }
 .review-item h3 { margin: 0 0 0.45rem; font-size: 1rem; }
 .review-item p { margin: 0.25rem 0; color: var(--muted); }
+.log-panel { display: flex; align-items: center; justify-content: space-between; gap: 1.5rem; }
+.log-panel h2 { margin: 0.2rem 0 0.35rem; }
+.log-panel p { margin: 0.25rem 0; color: var(--muted); }
+.log-panel .privacy-copy { font-size: 0.86rem; }
+.log-actions { display: flex; flex: 0 0 auto; flex-wrap: wrap; gap: 0.65rem; justify-content: flex-end; }
+.text-button { min-height: 44px; padding: 0.7rem 0.8rem; border: 0; background: transparent; color: var(--wrong); font: inherit; font-weight: 700; cursor: pointer; }
+.text-button:hover:not(:disabled) { text-decoration: underline; }
 .quiz-note { margin: 1.2rem 0 0; color: var(--muted); font-size: 0.9rem; text-align: center; }
 
 @media (max-width: 680px) {
@@ -97,4 +105,6 @@
   .question-header { display: block; }
   .progress-copy { margin-top: 0.5rem; }
   .question-nav { grid-template-columns: repeat(6, minmax(32px, 1fr)); }
+  .log-panel { align-items: stretch; flex-direction: column; }
+  .log-actions { justify-content: flex-start; }
 }

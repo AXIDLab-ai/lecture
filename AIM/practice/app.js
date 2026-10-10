@@ -2,12 +2,14 @@
   'use strict';
 
   const SESSION_KEY = 'aim-quiz-session-v1';
+  const HISTORY_KEY = 'aim-quiz-history-v1';
   const state = { bank: [], session: null, index: 0, reviewOnly: false };
   const el = Object.fromEntries([
     'loading-panel','setup-panel','question-panel','result-panel','start-button','resume-button',
     'week-filter','generate-button','question-meta','question-heading','progress-copy','progress-fill',
     'answer-form','choices','check-button','next-button','feedback','question-nav','score-value',
-    'score-message','retry-wrong-button','download-log-button','new-set-button','review-list'
+    'score-message','retry-wrong-button','download-log-button','clear-log-button','log-summary',
+    'new-set-button','review-list'
   ].map(id => [id, document.getElementById(id)]));
 
   function shuffle(items) {
@@ -22,6 +24,25 @@
   }
 
   function saveSession() { localStorage.setItem(SESSION_KEY, JSON.stringify(state.session)); }
+  function loadHistory() {
+    try {
+      const saved = JSON.parse(localStorage.getItem(HISTORY_KEY));
+      return Array.isArray(saved) ? saved : [];
+    } catch (_) { return []; }
+  }
+
+  function saveHistory(history) { localStorage.setItem(HISTORY_KEY, JSON.stringify(history)); }
+
+  function updateHistorySummary() {
+    const history = loadHistory();
+    const questions = history.reduce((sum, record) => sum + record.items.length, 0);
+    const correct = history.reduce((sum, record) => sum + record.items.filter(item => item.selected === item.answer).length, 0);
+    el['log-summary'].textContent = history.length
+      ? `${history.length}회 · 총 ${questions}문항 · 누적 정답률 ${Math.round((correct / questions) * 100)}%`
+      : '아직 완료한 연습 세트가 없습니다.';
+    el['download-log-button'].disabled = history.length === 0;
+    el['clear-log-button'].disabled = history.length === 0;
+  }
   function loadSession() {
     try {
       const saved = JSON.parse(localStorage.getItem(SESSION_KEY));
@@ -123,6 +144,22 @@
     el['score-message'].textContent = `정답률 ${Math.round((correct / questions.length) * 100)}% · 오답 ${wrong.length}문항`;
     el['retry-wrong-button'].hidden = wrong.length === 0;
     el['review-list'].innerHTML = wrong.map(q => `<article class="review-item"><h3>${escapeHtml(q.question)}</h3><p><strong>선택:</strong> ${escapeHtml(q.choices[(state.session.answers[q.id] || 1) - 1])}</p><p><strong>정답:</strong> ${q.answer}번 ${escapeHtml(q.choices[q.answer - 1])}</p><p>${escapeHtml(q.explanation)}</p></article>`).join('');
+    archiveCompletedSession(questions);
+  }
+
+  function archiveCompletedSession(questions) {
+    const history = loadHistory();
+    const sessionId = String(state.session.createdAt);
+    if (history.some(record => record.sessionId === sessionId)) { updateHistorySummary(); return; }
+    history.push({
+      sessionId,
+      createdAt: state.session.createdAt,
+      completedAt: Date.now(),
+      filter: state.session.filter,
+      items: questions.map(q => ({ id: q.id, selected: Number(state.session.answers[q.id] || 0), answer: q.answer }))
+    });
+    saveHistory(history);
+    updateHistorySummary();
   }
 
   function retryWrong() {
@@ -146,22 +183,26 @@
   }
 
   function downloadLearningLog() {
-    if (!state.session) return;
+    const history = loadHistory();
+    if (!history.length) return;
     const downloadedAt = Date.now();
     const headers = [
-      '세트 생성 시각', 'CSV 생성 시각', '문항 순서', '문항 ID', '주차', '대영역', '세부 주제',
+      '연습 회차', '세트 생성 시각', '세트 완료 시각', 'CSV 생성 시각', '출제 범위',
+      '문항 순서', '문항 ID', '주차', '대영역', '세부 주제',
       '문항 유형', '난이도', '문제', '선택 번호', '선택 내용', '정답 번호', '정답 내용', '채점 결과', '해설'
     ];
-    const rows = sessionQuestions().map((q, index) => {
-      const selected = Number(state.session.answers[q.id] || 0);
-      const checked = Boolean(state.session.checked[q.id]);
-      const result = !checked ? '미응답' : selected === q.answer ? '정답' : '오답';
+    const rows = history.flatMap((record, sessionIndex) => record.items.map((item, questionIndex) => {
+      const q = state.bank.find(question => question.id === item.id);
+      if (!q) return null;
+      const result = !item.selected ? '미응답' : item.selected === item.answer ? '정답' : '오답';
       return [
-        localDateTime(state.session.createdAt), localDateTime(downloadedAt), index + 1, q.id, q.week,
-        q.area, q.topic, q.type, q.difficulty, q.question, selected || '',
-        selected ? q.choices[selected - 1] : '', q.answer, q.choices[q.answer - 1], result, q.explanation
+        sessionIndex + 1, localDateTime(record.createdAt), localDateTime(record.completedAt),
+        localDateTime(downloadedAt), record.filter === 'all' ? '전체' : record.filter === 'wrong' ? '오답 복습' : `${record.filter}주차`,
+        questionIndex + 1, q.id, q.week, q.area, q.topic, q.type, q.difficulty, q.question,
+        item.selected || '', item.selected ? q.choices[item.selected - 1] : '', item.answer,
+        q.choices[item.answer - 1], result, q.explanation
       ];
-    });
+    })).filter(Boolean);
     const csv = `\uFEFF${[headers, ...rows].map(row => row.map(csvCell).join(',')).join('\r\n')}`;
     const blobUrl = URL.createObjectURL(new Blob([csv], { type: 'text/csv;charset=utf-8' }));
     const link = document.createElement('a');
@@ -172,6 +213,12 @@
     link.click();
     link.remove();
     window.setTimeout(() => URL.revokeObjectURL(blobUrl), 0);
+  }
+
+  function clearLearningLog() {
+    if (!window.confirm('이 브라우저에 저장된 누적 학습 기록을 모두 삭제할까요? 삭제한 기록은 복구할 수 없습니다.')) return;
+    localStorage.removeItem(HISTORY_KEY);
+    updateHistorySummary();
   }
 
   function escapeHtml(value) {
@@ -186,6 +233,7 @@
       if (!Array.isArray(data.questions) || data.questions.length !== 300) throw new Error('문항 수가 올바르지 않습니다.');
       state.bank = data.questions;
       populateWeeks();
+      updateHistorySummary();
       show('setup-panel');
       const saved = loadSession();
       if (saved && saved.ids.every(id => state.bank.some(q => q.id === id))) {
@@ -205,6 +253,7 @@
   el['question-nav'].addEventListener('click', event => { const button = event.target.closest('button[data-index]'); if (button) { state.index = Number(button.dataset.index); renderQuestion(); } });
   el['retry-wrong-button'].addEventListener('click', retryWrong);
   el['download-log-button'].addEventListener('click', downloadLearningLog);
+  el['clear-log-button'].addEventListener('click', clearLearningLog);
   el['new-set-button'].addEventListener('click', () => { localStorage.removeItem(SESSION_KEY); show('setup-panel'); });
   init();
 })();
