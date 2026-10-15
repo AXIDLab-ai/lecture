@@ -57,7 +57,7 @@
 
   function populateWeeks() {
     const counts = state.bank.reduce((map, q) => map.set(q.week, (map.get(q.week) || 0) + 1), new Map());
-    el['week-filter'].innerHTML = '<option value="all">전체 300문항</option>' + [...counts.entries()]
+    el['week-filter'].innerHTML = `<option value="all">전체 ${state.bank.length}문항</option>` + [...counts.entries()]
       .sort((a, b) => a[0] - b[0])
       .map(([week, count]) => `<option value="${week}">${week}주차 · ${count}문항</option>`).join('');
   }
@@ -230,7 +230,7 @@
       const response = await fetch('./questions.json', { cache: 'no-store' });
       if (!response.ok) throw new Error(`HTTP ${response.status}`);
       const data = await response.json();
-      if (!Array.isArray(data.questions) || data.questions.length !== 300) throw new Error('문항 수가 올바르지 않습니다.');
+      if (!Array.isArray(data.questions) || data.questions.length === 0 || data.questions.length !== data.count) throw new Error('문항 수가 올바르지 않습니다.');
       state.bank = data.questions;
       populateWeeks();
       updateHistorySummary();
