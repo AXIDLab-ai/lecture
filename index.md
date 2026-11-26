@@ -1,9 +1,9 @@
 ---
 title: AXID Lab Lecture Archive
-description: AXID Lab의 강의 소개, 주차별 노트, 실습 가이드를 모은 공개 아카이브입니다.
+description: AX-ID Lab의 강의 소개, 주차별 노트, 실습 가이드를 모은 공개 아카이브입니다.
 ---
 
-# AXID Lab Lecture Archive
+# AX-ID Lab Lecture Archive
 
 ### 강송희 교수 강의 아카이브
 
